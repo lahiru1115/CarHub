@@ -1,0 +1,1001 @@
+id,car_class,city_mpg,combination_mpg,cylinders,displacement,drive,fuel_type,highway_mpg,make,model,transmission,year
+1001,midsize,18,19,3,6,awd,diesel,21,BMW,X3,m,2014
+1002,luxury,25,29,12,1.3,awd,gas,33,BMW,320i,a,2020
+1003,luxury,108,110,0,0,rwd,electricity,113,Mercedes,C300,a,2014
+1004,midsize,94,96,0,0,awd,electricity,99,Honda,Fit,a,2023
+1005,compact,60,61,4,1.6,awd,diesel,62,Tesla,Model X,m,2015
+1006,van,46,47,8,5.9,rwd,diesel,49,Nissan,Altima,a,2019
+1007,midsize,41,44,6,4.7,awd,diesel,48,BMW,320i,a,2014
+1008,midsize,26,28,10,5.3,4wd,diesel,30,Toyota,RAV4,a,2011
+1009,truck,105,109,0,0,awd,electricity,113,BMW,528i,a,2020
+1010,compact,115,117,0,0,4wd,electricity,120,Honda,CR-V,a,2011
+1011,luxury,26,31,12,3.7,fwd,diesel,36,Chevrolet,Malibu,m,2010
+1012,van,36,40,8,6,rwd,gas,44,Mercedes,C300,a,2016
+1013,midsize,90,92,0,0,fwd,electricity,95,Tesla,Model S,m,2020
+1014,economy,56,57,10,5.5,rwd,diesel,58,Chevrolet,Silverado,m,2017
+1015,economy,111,114,0,0,4wd,electricity,117,Ford,Focus,m,2018
+1016,midsize,39,43,4,5.1,awd,gas,48,Tesla,Model Y,a,2011
+1017,fullsize,94,95,0,0,awd,electricity,96,Chevrolet,Cruze,m,2013
+1018,truck,43,46,12,4.2,rwd,gas,49,Tesla,Model Y,m,2022
+1019,van,103,104,0,0,4wd,electricity,106,Ford,Escape,a,2022
+1020,suv,13,17,3,5.6,fwd,diesel,22,Tesla,Model Y,a,2012
+1021,van,44,45,8,3.3,awd,diesel,46,Nissan,Versa,a,2022
+1022,truck,15,16,12,4.2,rwd,gas,18,Chevrolet,Equinox,m,2017
+1023,economy,59,60,10,6.4,4wd,gas,62,Nissan,Sentra,a,2012
+1024,truck,55,59,8,6.1,4wd,diesel,64,Toyota,RAV4,m,2018
+1025,truck,24,26,3,2.3,4wd,gas,28,Mercedes,E350,m,2011
+1026,van,42,44,4,1.6,rwd,gas,47,Tesla,Model S,m,2017
+1027,suv,47,51,8,4.2,fwd,diesel,55,Ford,F-150,m,2019
+1028,midsize,59,64,10,1.1,4wd,diesel,69,Nissan,Sentra,a,2018
+1029,luxury,11,14,10,2,4wd,diesel,17,Chevrolet,Malibu,a,2011
+1030,fullsize,45,48,12,5.7,awd,diesel,52,BMW,320i,m,2020
+1031,truck,103,105,0,0,4wd,electricity,108,Honda,Fit,m,2016
+1032,midsize,38,42,10,2.3,rwd,gas,47,Mercedes,GLC300,m,2013
+1033,van,26,28,3,1.8,rwd,gas,30,BMW,X3,a,2021
+1034,truck,25,28,8,3.9,4wd,gas,32,Honda,Fit,m,2011
+1035,economy,14,17,8,3.8,fwd,diesel,20,Ford,Focus,m,2023
+1036,midsize,56,59,10,3.8,4wd,gas,63,BMW,320i,a,2017
+1037,midsize,43,44,10,2.3,fwd,gas,46,Toyota,Camry,m,2017
+1038,van,42,44,10,1.4,fwd,diesel,46,Tesla,Model X,m,2016
+1039,fullsize,95,97,0,0,awd,electricity,99,Tesla,Model 3,a,2015
+1040,truck,42,45,6,4.2,rwd,diesel,49,Chevrolet,Malibu,a,2020
+1041,luxury,96,97,0,0,rwd,electricity,98,Tesla,Model 3,m,2021
+1042,truck,49,54,10,5.7,fwd,diesel,59,Tesla,Model Y,m,2012
+1043,van,49,54,12,3.3,4wd,diesel,59,BMW,320i,a,2014
+1044,luxury,41,42,12,4.6,awd,diesel,43,Ford,Focus,a,2015
+1045,van,57,59,4,3.1,rwd,diesel,61,Tesla,Model 3,m,2017
+1046,suv,18,19,12,1.2,rwd,diesel,21,Tesla,Model Y,a,2016
+1047,truck,60,61,3,1.1,rwd,gas,63,Nissan,Altima,a,2023
+1048,compact,93,94,0,0,awd,electricity,95,Tesla,Model 3,m,2012
+1049,compact,100,102,0,0,fwd,electricity,105,Mercedes,GLE350,a,2023
+1050,suv,12,15,4,4,4wd,gas,19,Chevrolet,Equinox,a,2014
+1051,luxury,41,42,10,3.7,awd,diesel,44,Toyota,Prius,m,2018
+1052,compact,12,16,4,6.4,fwd,gas,21,Ford,Fusion,a,2014
+1053,luxury,21,24,12,4.7,awd,diesel,28,Honda,CR-V,a,2013
+1054,economy,46,49,12,4.4,rwd,gas,53,Chevrolet,Malibu,a,2015
+1055,van,50,51,4,6,rwd,gas,52,BMW,320i,m,2011
+1056,suv,108,109,0,0,4wd,electricity,110,Tesla,Model Y,m,2023
+1057,luxury,33,35,10,2.3,fwd,gas,37,Chevrolet,Malibu,a,2020
+1058,compact,22,24,12,4.2,4wd,gas,26,Mercedes,GLE350,a,2023
+1059,truck,15,20,6,2.3,fwd,diesel,25,Nissan,Altima,m,2013
+1060,economy,42,45,3,3,rwd,gas,49,BMW,X5,a,2021
+1061,suv,29,31,8,6.3,4wd,gas,34,Mercedes,GLE350,m,2011
+1062,midsize,51,53,12,2.4,4wd,gas,56,Mercedes,GLC300,m,2017
+1063,truck,45,48,4,2.6,fwd,diesel,52,Honda,Civic,m,2018
+1064,luxury,109,110,0,0,fwd,electricity,111,Tesla,Model Y,m,2021
+1065,midsize,102,106,0,0,fwd,electricity,110,Nissan,Altima,a,2015
+1066,midsize,114,115,0,0,rwd,electricity,116,Tesla,Model S,a,2015
+1067,suv,53,57,12,3.9,4wd,diesel,62,Tesla,Model 3,a,2015
+1068,compact,11,14,3,2.9,4wd,gas,17,Toyota,RAV4,a,2017
+1069,suv,14,19,8,6.1,awd,diesel,24,Toyota,Camry,a,2023
+1070,luxury,43,47,6,3.9,4wd,diesel,51,Toyota,Prius,m,2018
+1071,compact,28,31,8,3.2,awd,diesel,35,BMW,X3,m,2015
+1072,compact,40,41,3,2.2,rwd,gas,42,Ford,F-150,a,2019
+1073,luxury,27,28,8,1.3,rwd,diesel,29,Nissan,Altima,m,2013
+1074,fullsize,23,26,8,6,rwd,gas,30,BMW,320i,m,2014
+1075,van,54,58,12,5.4,fwd,diesel,63,Toyota,Corolla,m,2012
+1076,economy,31,34,8,1.1,rwd,diesel,38,Ford,F-150,m,2019
+1077,luxury,41,44,3,2.8,4wd,diesel,47,Toyota,Prius,a,2014
+1078,luxury,11,15,10,4.3,rwd,gas,20,Toyota,Corolla,a,2023
+1079,fullsize,114,117,0,0,fwd,electricity,120,Ford,Focus,a,2013
+1080,midsize,54,57,12,1.3,awd,gas,60,Tesla,Model 3,a,2023
+1081,van,44,48,12,5.6,4wd,diesel,52,Mercedes,GLC300,a,2021
+1082,truck,105,107,0,0,rwd,electricity,109,Nissan,Sentra,a,2010
+1083,van,51,54,12,1.3,awd,diesel,58,Nissan,Sentra,m,2015
+1084,van,41,42,4,1.9,fwd,diesel,44,Chevrolet,Silverado,m,2011
+1085,luxury,19,22,3,1.6,awd,diesel,26,Nissan,Altima,a,2015
+1086,fullsize,95,100,0,0,awd,electricity,105,Chevrolet,Malibu,m,2013
+1087,luxury,103,106,0,0,rwd,electricity,110,Honda,CR-V,m,2015
+1088,midsize,90,91,0,0,awd,electricity,93,Toyota,Prius,a,2021
+1089,economy,33,38,4,3.6,fwd,gas,43,BMW,528i,m,2013
+1090,midsize,116,121,0,0,fwd,electricity,126,Mercedes,GLC300,m,2016
+1091,economy,115,119,0,0,4wd,electricity,124,Tesla,Model S,a,2012
+1092,economy,116,120,0,0,awd,electricity,124,Tesla,Model 3,m,2013
+1093,van,24,27,10,1.1,4wd,gas,30,Honda,CR-V,a,2015
+1094,economy,24,28,8,3.6,4wd,diesel,33,BMW,528i,m,2016
+1095,economy,114,118,0,0,rwd,electricity,122,Honda,CR-V,m,2019
+1096,economy,120,124,0,0,awd,electricity,129,Ford,Escape,a,2019
+1097,luxury,115,116,0,0,awd,electricity,118,Ford,F-150,m,2017
+1098,luxury,90,92,0,0,awd,electricity,94,Nissan,Sentra,a,2012
+1099,van,116,117,0,0,fwd,electricity,118,Chevrolet,Malibu,a,2010
+1100,midsize,36,39,4,4.3,4wd,diesel,43,Nissan,Rogue,m,2010
+1101,van,36,41,8,4.9,awd,gas,46,Honda,Civic,m,2023
+1102,economy,118,120,0,0,rwd,electricity,123,Ford,Fusion,m,2010
+1103,economy,34,36,6,3.5,rwd,gas,38,Tesla,Model Y,a,2019
+1104,midsize,39,42,4,6.4,fwd,diesel,46,Toyota,Camry,a,2011
+1105,midsize,113,118,0,0,4wd,electricity,123,BMW,528i,a,2011
+1106,midsize,26,30,3,3.3,4wd,diesel,34,Nissan,Sentra,a,2010
+1107,van,108,111,0,0,rwd,electricity,114,Tesla,Model X,m,2010
+1108,midsize,34,35,12,1.5,fwd,gas,37,Nissan,Sentra,m,2015
+1109,compact,94,97,0,0,fwd,electricity,100,Ford,Escape,m,2011
+1110,compact,35,37,8,1,4wd,gas,39,Mercedes,E350,a,2015
+1111,compact,97,99,0,0,4wd,electricity,101,Honda,Accord,a,2011
+1112,truck,33,34,12,2.9,rwd,diesel,35,Chevrolet,Malibu,a,2011
+1113,midsize,18,21,12,4,awd,diesel,24,Ford,Escape,a,2021
+1114,fullsize,24,25,3,4.8,awd,diesel,27,Toyota,RAV4,a,2016
+1115,economy,16,19,4,4.7,rwd,gas,22,Chevrolet,Malibu,m,2022
+1116,luxury,38,43,6,6.3,4wd,diesel,48,Tesla,Model S,a,2011
+1117,economy,119,122,0,0,4wd,electricity,125,Tesla,Model S,m,2010
+1118,luxury,42,47,10,6,fwd,diesel,52,Ford,Escape,a,2012
+1119,truck,95,96,0,0,rwd,electricity,97,Toyota,Corolla,a,2018
+1120,economy,50,52,6,6.5,fwd,gas,55,Chevrolet,Equinox,a,2016
+1121,midsize,91,94,0,0,4wd,electricity,98,Honda,Accord,a,2018
+1122,fullsize,36,40,8,2.1,rwd,diesel,45,Ford,Focus,m,2017
+1123,economy,114,118,0,0,fwd,electricity,122,Honda,CR-V,a,2015
+1124,fullsize,16,17,3,3.6,fwd,diesel,18,Honda,Accord,m,2018
+1125,compact,96,99,0,0,awd,electricity,102,BMW,320i,m,2012
+1126,economy,21,23,10,4.5,4wd,gas,26,Mercedes,C300,a,2016
+1127,economy,43,44,8,1.9,4wd,diesel,45,Mercedes,GLC300,m,2016
+1128,van,53,54,12,5,fwd,gas,55,BMW,320i,m,2019
+1129,luxury,116,119,0,0,4wd,electricity,123,Nissan,Altima,a,2021
+1130,midsize,12,13,12,4.8,4wd,diesel,14,Toyota,RAV4,a,2022
+1131,truck,35,39,4,3.1,fwd,diesel,43,BMW,X3,m,2021
+1132,fullsize,97,100,0,0,fwd,electricity,103,Tesla,Model Y,a,2018
+1133,luxury,110,114,0,0,fwd,electricity,118,Ford,F-150,a,2013
+1134,luxury,56,58,10,5.6,rwd,diesel,60,Chevrolet,Malibu,m,2015
+1135,van,105,106,0,0,awd,electricity,108,Honda,Civic,m,2015
+1136,compact,52,55,8,1.5,fwd,gas,58,Toyota,Prius,a,2016
+1137,truck,91,94,0,0,fwd,electricity,97,Honda,Accord,m,2011
+1138,truck,36,38,8,3.1,awd,gas,41,Nissan,Altima,m,2015
+1139,van,17,21,4,6.3,awd,diesel,26,BMW,320i,m,2016
+1140,truck,22,26,10,5.2,fwd,diesel,31,Nissan,Rogue,a,2011
+1141,midsize,15,19,8,4.3,fwd,diesel,23,Tesla,Model X,m,2022
+1142,truck,91,93,0,0,awd,electricity,96,Toyota,RAV4,m,2023
+1143,van,120,122,0,0,rwd,electricity,125,Ford,Focus,a,2010
+1144,compact,113,115,0,0,rwd,electricity,117,Honda,Accord,m,2021
+1145,fullsize,41,43,4,6.5,rwd,diesel,46,Nissan,Versa,m,2023
+1146,suv,39,44,12,4.4,rwd,diesel,49,Ford,Escape,a,2021
+1147,economy,47,52,3,4.8,fwd,diesel,57,Honda,Fit,m,2023
+1148,suv,42,44,12,4.7,awd,diesel,47,Honda,Accord,a,2012
+1149,van,36,38,4,3,rwd,diesel,40,Chevrolet,Silverado,a,2014
+1150,midsize,53,54,6,6.1,awd,diesel,55,Nissan,Sentra,m,2014
+1151,luxury,17,21,8,3.6,rwd,diesel,26,Ford,F-150,a,2020
+1152,luxury,45,48,10,3.6,4wd,gas,52,Chevrolet,Equinox,m,2014
+1153,fullsize,105,108,0,0,4wd,electricity,112,Mercedes,C300,a,2016
+1154,suv,113,115,0,0,awd,electricity,118,Toyota,Corolla,a,2022
+1155,luxury,19,22,10,5.8,awd,diesel,25,Mercedes,GLC300,a,2020
+1156,suv,113,116,0,0,awd,electricity,119,Ford,Escape,a,2018
+1157,economy,54,55,6,1.8,rwd,diesel,57,BMW,X5,m,2011
+1158,van,90,91,0,0,awd,electricity,92,Ford,Escape,m,2015
+1159,fullsize,20,21,3,3.8,4wd,gas,23,Nissan,Sentra,a,2015
+1160,fullsize,117,122,0,0,rwd,electricity,127,BMW,X5,a,2015
+1161,economy,58,60,3,1.8,rwd,gas,62,Nissan,Versa,m,2022
+1162,compact,119,121,0,0,fwd,electricity,123,Chevrolet,Malibu,m,2014
+1163,van,29,31,6,3.9,fwd,gas,34,Ford,Fusion,a,2013
+1164,suv,45,48,10,5,4wd,diesel,51,BMW,X3,m,2011
+1165,economy,44,45,12,5.5,4wd,gas,46,Mercedes,E350,m,2022
+1166,compact,112,114,0,0,rwd,electricity,116,Toyota,Prius,a,2013
+1167,compact,97,99,0,0,fwd,electricity,102,Chevrolet,Equinox,m,2018
+1168,compact,112,117,0,0,rwd,electricity,122,Mercedes,GLC300,a,2015
+1169,luxury,93,97,0,0,fwd,electricity,101,BMW,X3,m,2019
+1170,suv,118,122,0,0,fwd,electricity,127,Ford,Fusion,m,2013
+1171,economy,17,21,6,4.2,4wd,diesel,25,Honda,CR-V,a,2018
+1172,luxury,96,97,0,0,4wd,electricity,99,BMW,X5,m,2015
+1173,midsize,42,44,3,1.8,4wd,diesel,46,BMW,X3,a,2023
+1174,van,23,25,12,3,fwd,gas,27,Tesla,Model S,a,2010
+1175,economy,106,108,0,0,rwd,electricity,111,Ford,Escape,m,2021
+1176,truck,53,56,12,2.3,rwd,diesel,59,Tesla,Model X,a,2022
+1177,economy,35,36,10,4.6,4wd,diesel,37,BMW,X5,m,2020
+1178,fullsize,111,113,0,0,4wd,electricity,115,Honda,CR-V,a,2014
+1179,compact,23,24,8,1.5,4wd,gas,25,Toyota,Prius,a,2018
+1180,truck,24,26,3,3.6,4wd,gas,28,Ford,Focus,a,2023
+1181,economy,59,62,4,5.2,4wd,diesel,65,Honda,Accord,a,2013
+1182,economy,16,18,12,2.3,4wd,gas,20,Nissan,Altima,a,2014
+1183,economy,36,37,3,5.9,rwd,gas,39,Mercedes,GLE350,m,2014
+1184,economy,57,58,6,1.2,rwd,gas,59,Toyota,Corolla,a,2010
+1185,compact,112,117,0,0,fwd,electricity,122,Ford,Focus,a,2017
+1186,fullsize,118,120,0,0,4wd,electricity,123,Mercedes,E350,m,2018
+1187,fullsize,114,117,0,0,rwd,electricity,120,Chevrolet,Silverado,a,2019
+1188,economy,31,34,12,5.2,fwd,gas,37,Toyota,RAV4,a,2017
+1189,compact,48,51,3,2.5,awd,gas,55,Chevrolet,Silverado,a,2015
+1190,truck,55,60,8,2.7,rwd,diesel,65,Toyota,Prius,a,2015
+1191,midsize,36,41,12,2,fwd,gas,46,Tesla,Model X,a,2023
+1192,fullsize,35,37,12,5.2,rwd,diesel,39,BMW,X5,a,2010
+1193,fullsize,50,53,10,4.8,fwd,gas,57,Ford,Fusion,m,2020
+1194,compact,37,40,3,4.2,awd,diesel,44,Toyota,Prius,m,2013
+1195,economy,55,57,12,1.7,rwd,gas,60,Mercedes,E350,m,2020
+1196,suv,43,46,8,1.4,4wd,diesel,50,Honda,Accord,m,2023
+1197,midsize,107,108,0,0,awd,electricity,109,Honda,CR-V,m,2013
+1198,midsize,24,28,4,4.7,rwd,diesel,33,Toyota,Prius,a,2020
+1199,compact,15,17,3,5.6,rwd,gas,19,Toyota,Camry,a,2021
+1200,midsize,28,29,3,2.3,fwd,gas,31,Nissan,Sentra,m,2016
+1201,van,26,27,8,1.3,awd,gas,29,Toyota,Camry,m,2017
+1202,fullsize,32,36,6,2.1,rwd,diesel,41,Honda,Civic,a,2015
+1203,economy,112,114,0,0,4wd,electricity,116,Toyota,Corolla,m,2013
+1204,compact,96,98,0,0,rwd,electricity,100,Mercedes,GLC300,m,2018
+1205,economy,104,105,0,0,rwd,electricity,106,Ford,F-150,a,2013
+1206,fullsize,52,54,8,1.7,fwd,diesel,57,Mercedes,E350,m,2016
+1207,van,117,121,0,0,4wd,electricity,126,Nissan,Altima,a,2023
+1208,economy,47,50,3,2.8,awd,gas,54,BMW,X3,m,2016
+1209,fullsize,18,20,6,2.6,awd,diesel,23,Nissan,Versa,m,2014
+1210,midsize,120,125,0,0,rwd,electricity,130,Toyota,Prius,a,2023
+1211,compact,108,110,0,0,4wd,electricity,113,Toyota,Prius,a,2023
+1212,compact,21,22,3,4.8,awd,gas,23,Tesla,Model Y,a,2016
+1213,compact,11,14,3,2.2,4wd,diesel,18,Nissan,Rogue,a,2020
+1214,compact,38,41,6,3.4,fwd,gas,44,Ford,Fusion,a,2010
+1215,fullsize,108,109,0,0,rwd,electricity,111,BMW,X3,a,2015
+1216,suv,92,93,0,0,fwd,electricity,94,Honda,Fit,m,2021
+1217,economy,12,16,4,5.5,4wd,diesel,21,Honda,Accord,a,2021
+1218,suv,53,58,3,6.3,4wd,diesel,63,Toyota,RAV4,a,2017
+1219,luxury,113,114,0,0,fwd,electricity,115,Mercedes,C300,m,2015
+1220,midsize,27,31,8,3.5,awd,diesel,36,Chevrolet,Equinox,m,2010
+1221,van,94,95,0,0,fwd,electricity,96,Tesla,Model Y,m,2016
+1222,compact,14,17,10,2.4,4wd,diesel,20,Nissan,Rogue,m,2010
+1223,suv,102,107,0,0,rwd,electricity,112,Mercedes,E350,a,2017
+1224,economy,46,48,8,1.4,awd,diesel,50,Honda,Civic,m,2020
+1225,compact,53,54,10,4.1,fwd,diesel,56,BMW,320i,a,2023
+1226,truck,94,97,0,0,fwd,electricity,101,Ford,Escape,m,2019
+1227,midsize,116,118,0,0,4wd,electricity,121,Honda,CR-V,m,2019
+1228,midsize,55,56,12,6.3,awd,diesel,57,Nissan,Altima,m,2017
+1229,fullsize,12,13,12,3.8,fwd,diesel,14,Tesla,Model X,a,2022
+1230,luxury,39,40,3,3,4wd,gas,41,Chevrolet,Silverado,m,2012
+1231,luxury,42,43,3,4.5,awd,gas,45,Nissan,Sentra,a,2010
+1232,midsize,16,18,6,4.7,awd,diesel,21,Chevrolet,Cruze,m,2017
+1233,fullsize,24,26,12,2.6,awd,diesel,28,Toyota,RAV4,m,2011
+1234,van,109,114,0,0,fwd,electricity,119,BMW,320i,a,2017
+1235,midsize,95,98,0,0,awd,electricity,101,Chevrolet,Cruze,a,2015
+1236,compact,33,35,6,2.2,rwd,gas,38,Ford,F-150,m,2018
+1237,fullsize,13,16,12,6.3,awd,gas,20,Tesla,Model 3,m,2016
+1238,van,102,103,0,0,fwd,electricity,104,Nissan,Altima,a,2023
+1239,midsize,91,95,0,0,fwd,electricity,99,Chevrolet,Silverado,m,2013
+1240,midsize,38,40,8,3.4,awd,gas,42,Toyota,Camry,m,2015
+1241,truck,60,63,12,3.7,awd,gas,66,Mercedes,GLC300,a,2012
+1242,truck,36,38,8,5.3,4wd,diesel,40,Nissan,Versa,m,2016
+1243,midsize,37,40,4,3.9,awd,diesel,43,BMW,X5,a,2022
+1244,fullsize,52,54,10,6.3,4wd,diesel,57,Chevrolet,Silverado,m,2011
+1245,compact,26,27,10,3.5,fwd,gas,29,Chevrolet,Malibu,a,2021
+1246,truck,101,102,0,0,rwd,electricity,104,Honda,Fit,m,2015
+1247,compact,50,54,3,2.7,4wd,gas,59,Ford,F-150,m,2020
+1248,truck,27,29,8,2.8,fwd,gas,31,Tesla,Model S,m,2012
+1249,economy,92,96,0,0,4wd,electricity,100,Mercedes,C300,a,2018
+1250,midsize,117,118,0,0,rwd,electricity,119,Ford,F-150,m,2014
+1251,luxury,25,27,6,3.9,4wd,diesel,30,Nissan,Rogue,m,2020
+1252,compact,38,41,8,2.7,awd,diesel,45,Toyota,Prius,m,2012
+1253,economy,45,48,10,5.9,4wd,gas,52,Chevrolet,Silverado,m,2020
+1254,van,14,15,10,3,awd,gas,16,Tesla,Model Y,a,2015
+1255,truck,48,53,6,1.2,4wd,diesel,58,Ford,F-150,a,2023
+1256,van,98,102,0,0,fwd,electricity,106,BMW,X5,a,2019
+1257,compact,27,32,8,3.7,fwd,diesel,37,Chevrolet,Silverado,m,2018
+1258,van,114,116,0,0,rwd,electricity,119,Toyota,Prius,a,2022
+1259,van,38,42,4,3.5,awd,diesel,46,Honda,Accord,m,2012
+1260,midsize,51,55,8,1.7,4wd,gas,59,Honda,Civic,a,2017
+1261,fullsize,36,38,3,2.1,rwd,diesel,40,Tesla,Model S,a,2020
+1262,van,112,115,0,0,awd,electricity,119,Nissan,Sentra,a,2022
+1263,midsize,108,110,0,0,fwd,electricity,112,Mercedes,GLE350,a,2013
+1264,compact,98,101,0,0,4wd,electricity,105,Chevrolet,Equinox,a,2010
+1265,suv,90,94,0,0,awd,electricity,98,Honda,Fit,a,2011
+1266,fullsize,10,14,10,5.9,rwd,gas,19,BMW,X5,m,2022
+1267,compact,54,55,8,1.5,4wd,diesel,56,Ford,F-150,m,2013
+1268,economy,33,36,12,5.3,4wd,gas,39,Toyota,RAV4,m,2021
+1269,truck,108,111,0,0,4wd,electricity,115,Ford,Fusion,a,2023
+1270,compact,54,58,10,5.2,rwd,diesel,62,Tesla,Model X,m,2015
+1271,suv,41,43,8,5,rwd,diesel,46,Nissan,Versa,a,2010
+1272,midsize,51,52,4,3,fwd,diesel,53,Ford,Escape,a,2021
+1273,luxury,116,117,0,0,4wd,electricity,119,Tesla,Model X,m,2015
+1274,truck,27,28,4,4.6,rwd,gas,30,Mercedes,E350,m,2012
+1275,fullsize,48,49,10,1.5,fwd,gas,50,Ford,Fusion,m,2016
+1276,luxury,92,96,0,0,4wd,electricity,101,Chevrolet,Equinox,m,2011
+1277,economy,56,58,8,3.4,rwd,gas,60,Honda,Civic,a,2023
+1278,truck,45,49,3,5.1,4wd,diesel,54,Nissan,Versa,m,2015
+1279,suv,16,19,12,1,4wd,diesel,23,Ford,Escape,m,2012
+1280,midsize,116,118,0,0,4wd,electricity,120,Honda,Accord,a,2022
+1281,van,25,27,10,3.5,rwd,diesel,30,Tesla,Model 3,m,2017
+1282,economy,50,54,12,2.7,rwd,gas,59,Tesla,Model X,m,2012
+1283,midsize,16,19,6,2.4,fwd,diesel,23,Tesla,Model X,a,2013
+1284,compact,31,34,6,2.2,fwd,diesel,37,Honda,CR-V,m,2018
+1285,van,28,32,3,2.7,4wd,diesel,36,Tesla,Model X,a,2016
+1286,fullsize,96,99,0,0,rwd,electricity,103,Honda,Accord,a,2012
+1287,suv,20,21,8,6.1,awd,diesel,22,Mercedes,E350,a,2013
+1288,suv,46,49,4,2.1,4wd,diesel,52,Ford,Escape,m,2014
+1289,suv,29,30,6,3.6,fwd,diesel,31,Mercedes,E350,a,2015
+1290,fullsize,26,30,12,2.8,fwd,gas,34,Nissan,Sentra,a,2015
+1291,midsize,32,33,8,5.2,rwd,diesel,35,Chevrolet,Equinox,m,2014
+1292,compact,56,61,6,6.2,awd,diesel,66,Ford,Escape,a,2021
+1293,compact,43,46,4,2.5,4wd,diesel,49,Chevrolet,Equinox,a,2012
+1294,suv,108,112,0,0,rwd,electricity,117,Chevrolet,Equinox,m,2022
+1295,economy,26,31,6,2.1,fwd,gas,36,Ford,Escape,a,2019
+1296,suv,41,45,8,2.1,4wd,diesel,49,Nissan,Versa,a,2013
+1297,economy,104,109,0,0,rwd,electricity,114,Mercedes,GLC300,m,2016
+1298,fullsize,113,114,0,0,4wd,electricity,115,Tesla,Model S,m,2018
+1299,truck,95,97,0,0,rwd,electricity,100,Ford,F-150,a,2021
+1300,truck,56,60,10,4.8,rwd,diesel,64,Mercedes,GLE350,a,2010
+1301,compact,48,49,3,5.8,rwd,gas,51,Honda,Accord,a,2016
+1302,compact,13,14,12,4.9,rwd,diesel,16,BMW,X5,m,2020
+1303,midsize,107,108,0,0,rwd,electricity,110,Mercedes,E350,a,2023
+1304,economy,20,25,10,1.8,rwd,diesel,30,Chevrolet,Malibu,m,2013
+1305,compact,116,117,0,0,rwd,electricity,119,Tesla,Model X,m,2017
+1306,midsize,91,95,0,0,4wd,electricity,100,Ford,Escape,m,2021
+1307,midsize,34,37,10,3.5,awd,gas,40,Mercedes,GLE350,m,2016
+1308,van,17,21,6,2.2,awd,gas,25,BMW,528i,m,2016
+1309,luxury,108,111,0,0,rwd,electricity,115,Nissan,Sentra,a,2018
+1310,compact,91,93,0,0,4wd,electricity,95,Chevrolet,Malibu,m,2014
+1311,luxury,59,61,6,4.9,4wd,gas,63,Mercedes,C300,a,2021
+1312,fullsize,58,60,6,5.6,rwd,gas,62,Toyota,Camry,m,2013
+1313,fullsize,49,50,8,6.1,rwd,diesel,51,Toyota,Camry,m,2017
+1314,fullsize,113,117,0,0,4wd,electricity,121,Nissan,Altima,m,2011
+1315,luxury,43,46,3,4.1,awd,gas,49,Honda,Accord,a,2012
+1316,economy,11,15,12,4.6,fwd,diesel,19,Mercedes,E350,a,2018
+1317,compact,57,60,6,2.3,awd,gas,64,Toyota,Prius,m,2017
+1318,compact,104,106,0,0,4wd,electricity,108,Mercedes,GLE350,m,2014
+1319,luxury,17,19,4,1.7,fwd,gas,21,Honda,Civic,a,2012
+1320,truck,15,17,12,6.1,awd,diesel,19,Tesla,Model S,m,2010
+1321,fullsize,18,19,8,4.6,fwd,diesel,20,Nissan,Rogue,m,2021
+1322,midsize,52,56,6,2,rwd,diesel,60,Mercedes,C300,a,2019
+1323,economy,51,52,10,3.6,fwd,diesel,54,Nissan,Rogue,m,2023
+1324,luxury,56,59,12,3.2,rwd,diesel,63,Ford,Escape,a,2017
+1325,economy,51,54,12,3.8,4wd,gas,57,Tesla,Model S,m,2016
+1326,economy,45,48,3,3.2,awd,gas,52,Nissan,Altima,a,2016
+1327,luxury,21,24,4,2.6,rwd,gas,27,Ford,Focus,a,2015
+1328,economy,37,42,4,2.2,awd,diesel,47,Nissan,Altima,a,2011
+1329,truck,47,50,8,2.4,awd,diesel,53,Chevrolet,Cruze,m,2011
+1330,compact,94,97,0,0,rwd,electricity,101,Chevrolet,Equinox,m,2022
+1331,truck,28,30,12,2,awd,diesel,33,Honda,Accord,a,2013
+1332,van,90,95,0,0,4wd,electricity,100,Ford,Fusion,m,2015
+1333,fullsize,12,17,3,4.9,fwd,diesel,22,Ford,Fusion,a,2016
+1334,fullsize,46,50,10,1.6,awd,diesel,55,Ford,Fusion,m,2012
+1335,midsize,54,56,4,4.1,rwd,diesel,58,Chevrolet,Malibu,m,2016
+1336,van,53,54,8,5.5,awd,diesel,56,Honda,Fit,m,2010
+1337,fullsize,52,55,8,4.5,fwd,diesel,59,Toyota,Prius,a,2020
+1338,economy,43,46,10,1.5,fwd,diesel,49,Tesla,Model S,m,2016
+1339,fullsize,52,54,10,1.2,rwd,gas,57,Ford,Focus,m,2018
+1340,economy,53,55,8,3.9,fwd,gas,58,Toyota,Prius,m,2015
+1341,van,56,59,10,3.7,awd,diesel,62,Mercedes,C300,a,2021
+1342,fullsize,31,32,10,2.5,4wd,diesel,33,Chevrolet,Cruze,m,2021
+1343,economy,53,56,3,1.1,fwd,gas,60,Honda,Civic,m,2022
+1344,luxury,59,62,6,1.6,awd,diesel,66,Chevrolet,Silverado,m,2022
+1345,economy,31,35,10,2.7,awd,gas,39,BMW,528i,a,2016
+1346,suv,37,41,8,5.2,awd,gas,46,Toyota,Corolla,m,2012
+1347,luxury,117,120,0,0,fwd,electricity,123,Mercedes,GLC300,m,2011
+1348,economy,108,113,0,0,rwd,electricity,118,Mercedes,C300,a,2017
+1349,luxury,18,20,10,3.4,awd,gas,23,Chevrolet,Silverado,a,2014
+1350,truck,114,118,0,0,fwd,electricity,122,Chevrolet,Malibu,m,2015
+1351,economy,107,109,0,0,4wd,electricity,112,BMW,X3,m,2016
+1352,luxury,48,50,3,2.6,fwd,gas,53,Toyota,Prius,m,2019
+1353,compact,13,17,4,4.9,fwd,gas,21,BMW,X5,a,2023
+1354,van,22,23,3,3.7,rwd,diesel,25,Ford,Focus,a,2014
+1355,suv,101,106,0,0,rwd,electricity,111,Chevrolet,Cruze,m,2019
+1356,van,30,33,12,6,4wd,diesel,36,Ford,Escape,m,2019
+1357,suv,28,32,8,6.4,fwd,gas,37,Toyota,Prius,m,2021
+1358,luxury,21,25,10,1.2,rwd,diesel,29,Ford,Focus,a,2019
+1359,suv,53,55,6,5.3,rwd,gas,57,Toyota,Camry,a,2015
+1360,van,50,52,4,4.2,rwd,diesel,54,BMW,528i,m,2016
+1361,luxury,31,36,6,5.1,fwd,gas,41,BMW,X5,a,2019
+1362,suv,28,29,8,6.5,fwd,gas,30,Ford,Fusion,a,2013
+1363,van,35,37,10,3.3,4wd,gas,40,Chevrolet,Cruze,m,2014
+1364,midsize,93,97,0,0,rwd,electricity,101,BMW,X5,a,2013
+1365,midsize,26,29,6,1.6,4wd,diesel,32,Tesla,Model Y,m,2023
+1366,van,30,33,8,4.7,awd,diesel,36,Toyota,Prius,a,2012
+1367,economy,28,30,8,6.2,awd,diesel,32,Toyota,Prius,a,2012
+1368,midsize,15,17,3,4,rwd,gas,20,Chevrolet,Equinox,m,2013
+1369,economy,117,121,0,0,fwd,electricity,126,Toyota,Camry,a,2017
+1370,fullsize,49,52,12,3.8,fwd,diesel,56,BMW,X3,m,2011
+1371,economy,37,40,3,4.9,4wd,diesel,43,Honda,Fit,a,2023
+1372,luxury,96,100,0,0,4wd,electricity,104,Toyota,Camry,m,2020
+1373,compact,93,98,0,0,fwd,electricity,103,Honda,CR-V,m,2017
+1374,fullsize,59,61,8,1.3,4wd,gas,63,Chevrolet,Silverado,a,2018
+1375,fullsize,96,97,0,0,rwd,electricity,98,Toyota,Camry,m,2020
+1376,van,12,15,12,6.1,4wd,diesel,19,Chevrolet,Silverado,a,2019
+1377,compact,18,21,10,2.7,fwd,diesel,24,Ford,Fusion,a,2014
+1378,truck,112,113,0,0,rwd,electricity,114,Mercedes,GLC300,a,2014
+1379,compact,33,35,4,4,awd,gas,38,Nissan,Sentra,a,2018
+1380,van,38,39,6,3.8,rwd,gas,40,BMW,320i,m,2012
+1381,fullsize,47,50,6,1.9,fwd,gas,54,Nissan,Versa,a,2019
+1382,luxury,44,48,8,4.4,4wd,diesel,52,BMW,X5,m,2013
+1383,van,42,46,4,2.3,4wd,gas,51,Tesla,Model X,a,2012
+1384,compact,57,60,4,5.1,4wd,diesel,64,Mercedes,GLC300,m,2015
+1385,fullsize,49,52,4,3.7,awd,diesel,56,Ford,Escape,a,2010
+1386,suv,27,32,8,4,4wd,gas,37,Mercedes,E350,m,2010
+1387,compact,43,44,10,3.5,awd,gas,45,BMW,X5,m,2022
+1388,truck,30,31,12,5.3,fwd,diesel,33,Honda,Fit,a,2010
+1389,van,100,105,0,0,awd,electricity,110,Mercedes,GLC300,m,2015
+1390,suv,57,59,4,3.1,fwd,diesel,62,Chevrolet,Silverado,m,2018
+1391,economy,19,23,3,5.1,4wd,diesel,28,Chevrolet,Cruze,a,2018
+1392,van,95,96,0,0,awd,electricity,97,Ford,Escape,m,2015
+1393,van,23,24,10,4.3,4wd,gas,26,Nissan,Altima,a,2015
+1394,economy,31,35,4,4.1,4wd,diesel,39,Honda,Fit,a,2021
+1395,midsize,48,49,6,4.7,4wd,diesel,51,Tesla,Model Y,a,2010
+1396,suv,21,23,12,4.6,rwd,gas,26,Tesla,Model S,m,2010
+1397,truck,43,45,12,2.9,4wd,gas,47,Honda,Accord,m,2018
+1398,economy,117,121,0,0,rwd,electricity,125,Toyota,Prius,a,2021
+1399,suv,23,25,4,4.9,awd,diesel,28,Chevrolet,Cruze,m,2011
+1400,van,59,61,4,5.6,rwd,diesel,63,Ford,Escape,m,2010
+1401,economy,38,41,8,4.7,4wd,diesel,45,Toyota,Prius,a,2022
+1402,fullsize,38,39,10,1.1,fwd,gas,41,Ford,Escape,a,2023
+1403,suv,33,35,8,6.2,rwd,gas,37,Mercedes,GLE350,a,2015
+1404,luxury,106,107,0,0,rwd,electricity,109,Chevrolet,Cruze,a,2021
+1405,van,96,101,0,0,rwd,electricity,106,Mercedes,C300,m,2018
+1406,economy,25,29,3,4.3,fwd,gas,33,Nissan,Altima,a,2016
+1407,fullsize,24,26,6,3.6,awd,diesel,28,Tesla,Model Y,a,2020
+1408,luxury,16,17,3,2.9,awd,diesel,18,Ford,Fusion,a,2020
+1409,compact,111,116,0,0,rwd,electricity,121,Ford,F-150,m,2020
+1410,suv,12,14,10,1.4,fwd,diesel,16,Nissan,Versa,a,2019
+1411,suv,113,114,0,0,rwd,electricity,115,Toyota,Corolla,a,2013
+1412,suv,120,124,0,0,4wd,electricity,128,Nissan,Sentra,m,2012
+1413,luxury,17,18,3,1,fwd,diesel,19,Tesla,Model S,a,2022
+1414,midsize,112,113,0,0,rwd,electricity,114,Chevrolet,Silverado,m,2017
+1415,midsize,19,20,10,5.5,fwd,gas,22,Toyota,RAV4,m,2012
+1416,van,14,19,4,2.2,awd,gas,24,Honda,Civic,a,2020
+1417,truck,43,44,8,1.3,rwd,diesel,46,Tesla,Model 3,a,2021
+1418,midsize,110,113,0,0,rwd,electricity,117,Nissan,Rogue,m,2015
+1419,midsize,23,25,10,2.4,rwd,diesel,28,Chevrolet,Malibu,a,2013
+1420,midsize,43,46,10,6.2,4wd,diesel,50,Nissan,Rogue,m,2019
+1421,luxury,29,31,12,4,rwd,diesel,34,Honda,Accord,a,2012
+1422,midsize,108,110,0,0,awd,electricity,112,Chevrolet,Cruze,m,2022
+1423,economy,94,96,0,0,rwd,electricity,99,Honda,Civic,m,2019
+1424,suv,21,23,12,6.4,fwd,gas,26,Honda,CR-V,a,2017
+1425,midsize,43,48,12,2.5,rwd,gas,53,Tesla,Model 3,m,2019
+1426,truck,112,117,0,0,rwd,electricity,122,Nissan,Altima,a,2019
+1427,fullsize,114,118,0,0,fwd,electricity,123,Mercedes,GLE350,m,2020
+1428,midsize,37,41,8,4.5,rwd,gas,46,Nissan,Sentra,m,2014
+1429,suv,11,12,12,5.5,fwd,gas,13,BMW,528i,a,2017
+1430,economy,34,35,8,3.3,4wd,diesel,36,Toyota,Prius,m,2017
+1431,luxury,45,49,6,4.2,awd,diesel,53,BMW,320i,a,2023
+1432,fullsize,54,57,6,1.4,fwd,gas,61,Ford,Fusion,m,2023
+1433,truck,57,62,3,1.2,fwd,gas,67,Nissan,Rogue,a,2021
+1434,truck,48,52,12,4.6,rwd,diesel,57,Ford,Focus,a,2021
+1435,midsize,34,36,10,6,awd,diesel,38,Honda,Accord,a,2021
+1436,truck,110,113,0,0,4wd,electricity,116,Nissan,Altima,a,2011
+1437,compact,109,111,0,0,4wd,electricity,114,Ford,Escape,m,2018
+1438,compact,92,95,0,0,fwd,electricity,98,Ford,Focus,a,2018
+1439,midsize,36,40,8,6.4,awd,diesel,44,Chevrolet,Equinox,m,2010
+1440,luxury,106,107,0,0,4wd,electricity,109,Tesla,Model 3,a,2021
+1441,compact,10,11,3,2.1,awd,diesel,12,Tesla,Model X,m,2017
+1442,economy,120,122,0,0,fwd,electricity,124,Ford,Fusion,a,2018
+1443,luxury,117,120,0,0,rwd,electricity,124,Tesla,Model X,m,2011
+1444,luxury,20,22,12,6.4,rwd,gas,25,Honda,Accord,m,2022
+1445,luxury,33,34,4,1.8,fwd,gas,36,Mercedes,GLC300,m,2023
+1446,luxury,33,37,12,6,awd,diesel,41,Ford,Fusion,a,2010
+1447,van,10,11,4,3.4,4wd,diesel,13,Honda,CR-V,a,2022
+1448,economy,19,20,8,4.2,4wd,gas,22,Honda,Civic,a,2014
+1449,van,42,44,8,1.4,awd,gas,46,Ford,Escape,m,2023
+1450,compact,113,114,0,0,4wd,electricity,116,Toyota,Camry,a,2019
+1451,economy,118,121,0,0,4wd,electricity,124,Tesla,Model S,m,2019
+1452,luxury,39,44,10,6,4wd,gas,49,Nissan,Rogue,a,2022
+1453,van,102,105,0,0,4wd,electricity,108,Ford,Focus,a,2012
+1454,economy,95,99,0,0,rwd,electricity,104,Nissan,Rogue,a,2018
+1455,van,114,118,0,0,fwd,electricity,123,Toyota,RAV4,m,2016
+1456,truck,32,34,10,4.6,awd,diesel,37,BMW,X5,a,2021
+1457,van,104,108,0,0,awd,electricity,113,Ford,Focus,a,2015
+1458,truck,13,15,3,1.4,fwd,gas,18,BMW,320i,m,2018
+1459,fullsize,95,100,0,0,rwd,electricity,105,Toyota,RAV4,m,2012
+1460,luxury,32,35,10,5.2,awd,diesel,38,Tesla,Model S,a,2013
+1461,compact,35,36,3,1.5,4wd,diesel,38,Ford,Escape,m,2018
+1462,economy,13,14,10,4.7,4wd,diesel,15,Mercedes,GLC300,m,2023
+1463,suv,35,36,3,5,awd,diesel,37,Ford,Fusion,m,2018
+1464,truck,25,29,4,1.9,rwd,gas,34,Tesla,Model Y,m,2020
+1465,truck,21,24,4,1.6,4wd,gas,28,Tesla,Model Y,m,2017
+1466,compact,15,19,4,1.3,4wd,gas,24,BMW,X3,a,2021
+1467,luxury,47,51,10,2.2,awd,diesel,56,Toyota,RAV4,a,2023
+1468,truck,107,108,0,0,awd,electricity,109,Chevrolet,Malibu,m,2018
+1469,economy,90,94,0,0,awd,electricity,98,Honda,Fit,m,2018
+1470,economy,35,37,6,1.6,fwd,gas,39,Tesla,Model 3,m,2022
+1471,midsize,21,26,3,4.5,4wd,gas,31,Toyota,Prius,m,2014
+1472,luxury,93,97,0,0,awd,electricity,101,Ford,F-150,m,2010
+1473,economy,53,55,4,3.6,4wd,diesel,58,Honda,Civic,m,2020
+1474,midsize,21,22,6,1.1,4wd,gas,23,BMW,528i,m,2019
+1475,fullsize,55,59,4,1.6,rwd,diesel,64,Ford,Escape,m,2021
+1476,truck,56,59,8,3.2,4wd,gas,63,Mercedes,GLE350,m,2011
+1477,fullsize,52,54,6,5.7,rwd,gas,57,Tesla,Model X,a,2012
+1478,van,101,106,0,0,4wd,electricity,111,Tesla,Model S,m,2011
+1479,fullsize,51,55,12,1.8,rwd,diesel,60,Nissan,Altima,m,2018
+1480,van,37,40,4,5.7,4wd,diesel,43,Mercedes,E350,m,2013
+1481,fullsize,96,98,0,0,rwd,electricity,100,Ford,Escape,m,2014
+1482,truck,98,103,0,0,awd,electricity,108,Honda,Civic,m,2010
+1483,compact,25,26,6,3.4,fwd,diesel,28,Ford,Focus,a,2018
+1484,midsize,17,20,4,5.5,4wd,gas,23,Tesla,Model S,m,2013
+1485,compact,118,120,0,0,4wd,electricity,123,Toyota,Camry,a,2014
+1486,midsize,42,44,3,6,4wd,diesel,47,Mercedes,C300,a,2020
+1487,midsize,90,91,0,0,awd,electricity,93,Tesla,Model Y,a,2014
+1488,suv,27,29,12,4.2,awd,gas,32,BMW,X3,a,2010
+1489,luxury,50,54,3,5.8,4wd,gas,58,Toyota,RAV4,m,2021
+1490,compact,95,98,0,0,rwd,electricity,102,Mercedes,GLE350,a,2017
+1491,luxury,97,100,0,0,fwd,electricity,104,Toyota,Camry,m,2014
+1492,luxury,53,57,8,3,awd,gas,62,Chevrolet,Cruze,a,2013
+1493,suv,95,99,0,0,fwd,electricity,103,Tesla,Model 3,a,2021
+1494,compact,20,21,10,3.2,rwd,gas,22,Tesla,Model Y,a,2020
+1495,compact,35,40,10,5.8,4wd,diesel,45,Mercedes,GLE350,m,2015
+1496,suv,32,36,6,5.7,awd,diesel,40,Chevrolet,Equinox,m,2020
+1497,van,55,60,8,4.4,4wd,diesel,65,Mercedes,E350,a,2014
+1498,truck,14,18,6,2.9,4wd,diesel,23,Toyota,Camry,m,2021
+1499,compact,31,35,12,2,awd,diesel,40,Mercedes,E350,a,2017
+1500,luxury,29,32,12,2,fwd,gas,35,Nissan,Rogue,a,2021
+1501,compact,106,109,0,0,rwd,electricity,113,Honda,Accord,m,2015
+1502,van,46,48,6,6.2,fwd,gas,51,Tesla,Model 3,a,2018
+1503,van,31,35,3,4.7,rwd,diesel,39,Chevrolet,Silverado,m,2011
+1504,suv,53,54,3,2.3,4wd,diesel,56,Honda,Accord,a,2018
+1505,van,14,15,3,5,awd,diesel,16,Ford,Fusion,a,2011
+1506,fullsize,13,18,10,1.3,4wd,gas,23,Honda,Civic,a,2013
+1507,suv,11,12,4,2.4,awd,diesel,13,Toyota,Corolla,m,2011
+1508,fullsize,28,32,4,4,rwd,gas,37,BMW,528i,m,2020
+1509,midsize,59,61,8,4.7,rwd,gas,64,Nissan,Sentra,m,2019
+1510,luxury,118,120,0,0,4wd,electricity,123,Chevrolet,Malibu,m,2021
+1511,truck,106,107,0,0,awd,electricity,109,Mercedes,GLC300,a,2017
+1512,suv,32,35,10,2.7,4wd,gas,39,BMW,320i,m,2013
+1513,economy,96,100,0,0,4wd,electricity,104,Toyota,Prius,m,2019
+1514,compact,90,93,0,0,fwd,electricity,96,Honda,Accord,m,2017
+1515,midsize,50,51,4,3.1,4wd,gas,52,Toyota,RAV4,m,2023
+1516,compact,97,101,0,0,awd,electricity,105,Tesla,Model 3,a,2021
+1517,economy,100,104,0,0,rwd,electricity,109,Nissan,Sentra,a,2015
+1518,compact,21,22,6,1.4,rwd,gas,23,Nissan,Rogue,a,2021
+1519,luxury,29,33,8,3.7,4wd,gas,37,Mercedes,GLC300,m,2020
+1520,compact,28,31,10,3.8,awd,diesel,34,Toyota,Prius,a,2020
+1521,fullsize,27,28,8,1.1,fwd,diesel,29,Toyota,Camry,m,2020
+1522,suv,34,35,8,3.7,rwd,gas,36,Mercedes,C300,m,2010
+1523,midsize,30,31,10,3.5,fwd,diesel,32,Mercedes,GLE350,m,2011
+1524,suv,109,110,0,0,awd,electricity,111,Mercedes,GLE350,m,2016
+1525,compact,34,38,10,5.6,awd,diesel,43,Honda,Fit,a,2019
+1526,economy,102,104,0,0,fwd,electricity,107,Mercedes,C300,m,2019
+1527,truck,25,26,4,5.4,rwd,gas,27,Tesla,Model 3,m,2017
+1528,economy,10,13,6,3.5,rwd,diesel,16,Ford,F-150,m,2020
+1529,luxury,43,46,8,2.1,fwd,diesel,49,BMW,320i,m,2019
+1530,luxury,23,27,3,5.9,awd,gas,32,Tesla,Model S,a,2014
+1531,truck,18,19,12,1.4,4wd,gas,20,BMW,X5,m,2023
+1532,midsize,26,29,10,2.5,awd,diesel,33,Ford,Fusion,a,2023
+1533,van,42,44,10,6.2,4wd,gas,46,Honda,Accord,m,2016
+1534,suv,111,114,0,0,awd,electricity,118,Toyota,Prius,a,2020
+1535,midsize,107,112,0,0,4wd,electricity,117,BMW,528i,a,2014
+1536,van,118,121,0,0,4wd,electricity,124,Nissan,Rogue,m,2020
+1537,fullsize,48,50,6,1.9,fwd,diesel,52,Tesla,Model 3,a,2023
+1538,suv,120,125,0,0,awd,electricity,130,BMW,528i,m,2011
+1539,van,91,95,0,0,4wd,electricity,100,Nissan,Sentra,a,2013
+1540,fullsize,37,40,3,5.9,4wd,gas,43,BMW,320i,a,2021
+1541,midsize,41,45,12,4.3,rwd,gas,50,Mercedes,GLC300,a,2011
+1542,luxury,55,59,10,5.6,fwd,gas,64,Chevrolet,Cruze,m,2015
+1543,midsize,59,62,12,3.9,4wd,gas,66,Tesla,Model 3,a,2010
+1544,truck,95,99,0,0,rwd,electricity,104,Nissan,Sentra,m,2015
+1545,suv,43,44,3,6.2,fwd,diesel,45,Nissan,Versa,m,2014
+1546,truck,34,37,12,6.5,awd,gas,40,Chevrolet,Equinox,a,2018
+1547,economy,35,38,3,3.8,awd,diesel,42,Toyota,Corolla,a,2013
+1548,luxury,37,40,8,2.7,rwd,diesel,43,Tesla,Model X,m,2017
+1549,economy,14,15,6,2.1,awd,diesel,16,Ford,Fusion,m,2012
+1550,fullsize,111,115,0,0,awd,electricity,119,Chevrolet,Cruze,m,2018
+1551,economy,59,61,12,1.9,rwd,diesel,63,Nissan,Sentra,m,2022
+1552,fullsize,60,64,4,4.5,awd,gas,69,Tesla,Model Y,m,2018
+1553,luxury,55,58,12,1.2,rwd,gas,61,Nissan,Altima,m,2021
+1554,compact,115,116,0,0,fwd,electricity,118,Ford,Escape,a,2021
+1555,truck,32,37,4,5.6,4wd,gas,42,Ford,Escape,m,2023
+1556,truck,102,105,0,0,4wd,electricity,108,Ford,F-150,a,2014
+1557,van,28,31,10,3.2,4wd,gas,34,Mercedes,C300,a,2017
+1558,economy,115,117,0,0,fwd,electricity,119,Mercedes,E350,a,2017
+1559,fullsize,105,106,0,0,4wd,electricity,108,Toyota,RAV4,a,2014
+1560,van,42,44,8,2,fwd,diesel,46,Nissan,Sentra,m,2022
+1561,compact,37,41,4,3.9,4wd,diesel,46,Chevrolet,Equinox,m,2010
+1562,suv,42,47,3,1.4,4wd,diesel,52,Tesla,Model Y,a,2022
+1563,truck,17,20,12,3.4,4wd,diesel,24,Tesla,Model Y,a,2016
+1564,luxury,27,30,8,4.6,awd,gas,34,Toyota,RAV4,a,2010
+1565,truck,101,104,0,0,awd,electricity,108,BMW,320i,m,2016
+1566,van,91,93,0,0,fwd,electricity,96,Chevrolet,Cruze,a,2017
+1567,fullsize,53,56,6,4.9,awd,gas,60,Honda,CR-V,a,2011
+1568,suv,13,17,12,5.2,4wd,diesel,21,Honda,Fit,m,2014
+1569,economy,118,119,0,0,awd,electricity,120,Chevrolet,Equinox,m,2018
+1570,luxury,112,115,0,0,fwd,electricity,118,Ford,F-150,m,2011
+1571,compact,54,58,6,3.6,awd,gas,63,Nissan,Sentra,a,2010
+1572,midsize,44,46,12,1.7,4wd,diesel,49,Ford,F-150,a,2020
+1573,economy,21,24,6,4.1,fwd,gas,28,Mercedes,C300,m,2014
+1574,compact,33,34,4,6.3,awd,gas,36,Mercedes,E350,m,2022
+1575,fullsize,115,120,0,0,awd,electricity,125,Tesla,Model X,m,2021
+1576,truck,94,96,0,0,rwd,electricity,99,Toyota,Camry,m,2017
+1577,suv,14,17,4,5.4,4wd,gas,21,Mercedes,GLC300,a,2022
+1578,truck,106,110,0,0,awd,electricity,115,Mercedes,GLE350,m,2023
+1579,fullsize,43,45,12,5.3,4wd,diesel,48,Tesla,Model X,a,2022
+1580,economy,107,110,0,0,rwd,electricity,113,Honda,Accord,m,2013
+1581,economy,98,99,0,0,4wd,electricity,100,Nissan,Sentra,m,2023
+1582,suv,43,44,6,1.7,awd,diesel,45,BMW,X3,a,2014
+1583,luxury,14,17,6,3.3,awd,diesel,20,Mercedes,E350,a,2015
+1584,van,33,36,3,4.4,4wd,diesel,40,BMW,320i,a,2013
+1585,truck,42,46,4,3.8,fwd,diesel,50,Ford,F-150,a,2010
+1586,suv,36,37,3,1.3,4wd,gas,39,Chevrolet,Cruze,a,2017
+1587,midsize,42,44,4,6.3,fwd,diesel,47,Nissan,Versa,m,2019
+1588,truck,24,26,3,5.4,4wd,diesel,28,Honda,Civic,a,2021
+1589,suv,45,48,10,6.1,awd,diesel,52,Nissan,Altima,a,2018
+1590,economy,119,121,0,0,rwd,electricity,124,Mercedes,E350,a,2023
+1591,luxury,114,117,0,0,awd,electricity,121,Tesla,Model X,m,2017
+1592,fullsize,57,59,3,6.3,fwd,gas,62,Ford,Focus,m,2018
+1593,fullsize,38,42,12,6,4wd,diesel,46,Ford,Focus,m,2017
+1594,economy,91,92,0,0,awd,electricity,94,Mercedes,E350,m,2011
+1595,luxury,49,54,6,5.2,4wd,diesel,59,Toyota,Prius,m,2022
+1596,truck,106,108,0,0,4wd,electricity,110,Chevrolet,Cruze,a,2013
+1597,suv,23,24,12,3.1,4wd,diesel,26,BMW,X5,a,2018
+1598,luxury,19,21,6,4.4,4wd,diesel,24,Honda,Civic,a,2014
+1599,midsize,117,119,0,0,rwd,electricity,121,Mercedes,E350,m,2012
+1600,luxury,120,121,0,0,fwd,electricity,123,Tesla,Model Y,m,2022
+1601,compact,23,27,6,4.4,awd,diesel,31,Honda,Fit,a,2016
+1602,truck,46,47,8,3,fwd,diesel,49,Chevrolet,Silverado,m,2019
+1603,suv,46,50,8,4.2,awd,gas,54,Tesla,Model X,m,2018
+1604,suv,16,18,4,1.9,awd,gas,20,Tesla,Model Y,m,2015
+1605,van,31,32,6,6.4,awd,gas,33,BMW,320i,a,2021
+1606,van,45,47,4,2.2,awd,diesel,49,Chevrolet,Cruze,m,2020
+1607,economy,10,11,10,6,awd,gas,13,Toyota,RAV4,a,2014
+1608,truck,103,106,0,0,fwd,electricity,109,Chevrolet,Malibu,m,2016
+1609,fullsize,26,28,3,6,4wd,gas,31,Chevrolet,Equinox,a,2012
+1610,suv,119,123,0,0,awd,electricity,128,BMW,X5,a,2012
+1611,suv,25,27,12,1.6,awd,gas,30,Mercedes,GLE350,m,2011
+1612,luxury,92,94,0,0,rwd,electricity,96,Honda,Civic,a,2020
+1613,fullsize,50,52,12,1.3,4wd,diesel,54,Mercedes,GLC300,a,2022
+1614,suv,105,106,0,0,4wd,electricity,108,Tesla,Model X,a,2016
+1615,midsize,21,23,12,6.5,4wd,diesel,25,Nissan,Versa,a,2011
+1616,truck,117,118,0,0,4wd,electricity,120,Toyota,Corolla,a,2015
+1617,midsize,30,32,3,2.1,4wd,gas,34,BMW,X3,m,2017
+1618,economy,51,52,3,3.4,fwd,diesel,54,Ford,Fusion,a,2011
+1619,luxury,108,112,0,0,fwd,electricity,116,Nissan,Sentra,m,2022
+1620,compact,97,100,0,0,fwd,electricity,103,Chevrolet,Cruze,a,2019
+1621,midsize,91,92,0,0,fwd,electricity,94,Nissan,Sentra,m,2011
+1622,van,49,50,3,1.9,fwd,gas,52,BMW,320i,a,2018
+1623,luxury,102,103,0,0,4wd,electricity,104,Mercedes,GLE350,a,2012
+1624,economy,118,121,0,0,fwd,electricity,124,Tesla,Model Y,a,2014
+1625,truck,57,58,8,2,4wd,diesel,59,Toyota,Corolla,m,2022
+1626,midsize,22,24,10,6.4,4wd,diesel,27,Toyota,Camry,m,2015
+1627,economy,24,27,6,6.2,awd,gas,30,Nissan,Sentra,a,2019
+1628,luxury,97,98,0,0,rwd,electricity,100,Honda,Civic,m,2017
+1629,truck,19,22,4,1.9,rwd,diesel,26,Toyota,Prius,a,2016
+1630,midsize,14,17,10,6,awd,diesel,20,Honda,Fit,a,2022
+1631,suv,22,25,3,2.9,fwd,gas,29,Tesla,Model Y,a,2015
+1632,fullsize,34,39,12,5.2,fwd,gas,44,Toyota,Corolla,m,2014
+1633,suv,56,61,10,5.8,4wd,gas,66,Nissan,Rogue,m,2021
+1634,economy,23,24,10,3.6,fwd,diesel,25,Chevrolet,Silverado,a,2019
+1635,truck,45,50,4,5.4,fwd,diesel,55,Toyota,Corolla,a,2021
+1636,suv,96,100,0,0,fwd,electricity,104,Chevrolet,Equinox,a,2014
+1637,midsize,96,97,0,0,fwd,electricity,98,Toyota,Camry,a,2022
+1638,luxury,99,100,0,0,4wd,electricity,102,Chevrolet,Cruze,m,2022
+1639,economy,38,42,8,5.9,awd,gas,46,BMW,320i,a,2016
+1640,economy,26,28,8,2,4wd,diesel,30,BMW,X5,a,2010
+1641,truck,49,52,6,1.8,awd,gas,55,Chevrolet,Equinox,m,2015
+1642,compact,42,44,8,5.6,awd,diesel,46,Chevrolet,Silverado,a,2018
+1643,economy,42,45,8,6.2,awd,diesel,48,Mercedes,E350,a,2023
+1644,truck,35,36,10,5.6,awd,gas,38,Honda,Fit,a,2020
+1645,compact,40,43,6,2.3,fwd,diesel,47,BMW,X5,a,2017
+1646,midsize,117,121,0,0,fwd,electricity,125,Ford,Fusion,m,2020
+1647,economy,39,43,3,2.5,awd,gas,48,Nissan,Altima,a,2013
+1648,economy,15,16,8,1.5,rwd,diesel,17,Ford,F-150,m,2018
+1649,economy,108,112,0,0,4wd,electricity,117,Chevrolet,Cruze,m,2010
+1650,midsize,23,26,4,4.9,4wd,diesel,30,Tesla,Model S,m,2021
+1651,luxury,37,39,6,2.2,4wd,diesel,42,Toyota,Prius,m,2011
+1652,economy,47,49,12,2.6,awd,diesel,51,Chevrolet,Silverado,m,2011
+1653,truck,111,112,0,0,4wd,electricity,114,Toyota,Camry,m,2011
+1654,midsize,15,20,12,2.7,fwd,diesel,25,Nissan,Versa,a,2011
+1655,compact,111,112,0,0,awd,electricity,114,Ford,Focus,m,2011
+1656,suv,116,117,0,0,4wd,electricity,119,Mercedes,C300,a,2013
+1657,midsize,102,106,0,0,4wd,electricity,110,Ford,Escape,m,2014
+1658,van,53,55,8,2.3,rwd,gas,57,Nissan,Altima,a,2013
+1659,midsize,36,41,3,1.3,4wd,gas,46,Toyota,RAV4,a,2023
+1660,van,30,31,10,4.8,fwd,diesel,32,Honda,Accord,a,2019
+1661,truck,19,22,8,4.5,awd,gas,26,Chevrolet,Equinox,a,2011
+1662,economy,27,28,12,3.5,4wd,gas,30,Mercedes,GLC300,m,2021
+1663,compact,112,115,0,0,fwd,electricity,118,Mercedes,C300,m,2015
+1664,economy,42,44,8,3.1,awd,gas,46,Nissan,Versa,m,2020
+1665,van,17,19,6,5.4,fwd,gas,21,Tesla,Model S,m,2010
+1666,luxury,116,120,0,0,awd,electricity,125,Mercedes,E350,m,2013
+1667,compact,58,60,3,4.4,fwd,gas,63,Chevrolet,Malibu,m,2022
+1668,luxury,31,32,10,5.3,awd,diesel,33,Ford,F-150,m,2018
+1669,fullsize,105,106,0,0,awd,electricity,108,Nissan,Versa,m,2015
+1670,compact,100,101,0,0,awd,electricity,103,BMW,X5,m,2017
+1671,economy,57,58,6,1.6,fwd,diesel,60,Ford,Escape,m,2022
+1672,suv,94,98,0,0,fwd,electricity,102,Chevrolet,Cruze,a,2022
+1673,fullsize,13,16,8,1.4,4wd,diesel,19,Tesla,Model X,m,2019
+1674,midsize,18,22,4,5.4,4wd,diesel,27,Mercedes,E350,a,2017
+1675,midsize,38,41,6,6.5,fwd,gas,45,Chevrolet,Equinox,a,2020
+1676,van,55,56,8,3.6,fwd,gas,57,Tesla,Model Y,m,2016
+1677,van,22,23,6,3.5,fwd,gas,25,Chevrolet,Cruze,m,2016
+1678,economy,15,18,8,2.2,rwd,gas,21,Toyota,Prius,a,2022
+1679,van,34,35,10,3.1,fwd,diesel,37,Tesla,Model X,a,2016
+1680,fullsize,36,39,12,4.9,rwd,diesel,42,BMW,320i,m,2010
+1681,truck,95,97,0,0,rwd,electricity,100,Toyota,RAV4,m,2012
+1682,fullsize,114,118,0,0,fwd,electricity,122,Ford,Focus,a,2012
+1683,truck,37,38,4,3.6,fwd,diesel,40,BMW,528i,a,2013
+1684,fullsize,53,56,8,4.6,rwd,gas,59,Honda,Fit,a,2011
+1685,compact,21,25,6,4.8,fwd,gas,29,Tesla,Model X,a,2012
+1686,truck,47,49,12,6.4,fwd,diesel,52,Nissan,Sentra,a,2013
+1687,compact,90,92,0,0,fwd,electricity,95,Chevrolet,Equinox,m,2015
+1688,economy,27,31,3,2.2,rwd,gas,35,Nissan,Versa,a,2020
+1689,van,20,22,8,2.5,awd,diesel,24,Chevrolet,Malibu,a,2017
+1690,midsize,57,59,3,3.8,awd,gas,62,Chevrolet,Silverado,m,2022
+1691,luxury,90,94,0,0,rwd,electricity,99,Mercedes,GLE350,a,2015
+1692,fullsize,116,121,0,0,awd,electricity,126,Tesla,Model S,m,2021
+1693,luxury,15,18,12,6.3,fwd,gas,21,Ford,F-150,a,2021
+1694,compact,107,110,0,0,rwd,electricity,114,Nissan,Rogue,a,2016
+1695,van,102,105,0,0,fwd,electricity,108,Tesla,Model Y,m,2019
+1696,luxury,53,56,6,5.8,awd,gas,59,Chevrolet,Silverado,a,2015
+1697,van,16,18,12,5.7,fwd,gas,21,Ford,F-150,m,2014
+1698,suv,32,35,6,1.5,4wd,gas,39,BMW,528i,a,2019
+1699,midsize,37,39,10,5.7,fwd,diesel,41,Nissan,Sentra,a,2012
+1700,midsize,13,16,10,2.4,awd,diesel,20,BMW,X3,a,2012
+1701,suv,30,31,3,5.4,rwd,gas,33,BMW,528i,m,2011
+1702,luxury,47,51,8,2.7,4wd,diesel,55,Chevrolet,Silverado,m,2023
+1703,luxury,114,115,0,0,rwd,electricity,116,Honda,Civic,m,2017
+1704,van,60,63,6,2.7,4wd,diesel,66,BMW,528i,a,2019
+1705,truck,49,51,10,2,4wd,diesel,54,Ford,Focus,m,2020
+1706,van,101,106,0,0,4wd,electricity,111,Toyota,Corolla,m,2012
+1707,truck,108,110,0,0,awd,electricity,112,Chevrolet,Cruze,a,2010
+1708,truck,91,94,0,0,fwd,electricity,97,Mercedes,E350,a,2017
+1709,suv,32,34,8,1.7,awd,diesel,37,Tesla,Model 3,m,2022
+1710,van,22,25,4,3.6,rwd,gas,28,Toyota,RAV4,m,2018
+1711,luxury,41,45,10,6.5,awd,gas,50,BMW,X3,m,2012
+1712,economy,29,34,3,1.5,fwd,gas,39,Tesla,Model S,a,2016
+1713,suv,60,62,6,1.2,fwd,diesel,65,Ford,Focus,a,2023
+1714,suv,40,44,12,6.2,4wd,diesel,49,Nissan,Altima,a,2021
+1715,suv,30,34,12,2.6,awd,diesel,39,BMW,528i,m,2019
+1716,van,98,99,0,0,rwd,electricity,101,Mercedes,E350,m,2016
+1717,economy,56,58,10,4.4,rwd,gas,61,Toyota,Corolla,a,2019
+1718,suv,37,40,10,5.5,rwd,diesel,44,Mercedes,GLE350,a,2019
+1719,economy,94,96,0,0,awd,electricity,99,Toyota,Corolla,m,2020
+1720,economy,37,41,10,4.8,4wd,gas,45,Tesla,Model X,m,2012
+1721,compact,97,101,0,0,4wd,electricity,105,Ford,F-150,a,2021
+1722,economy,48,50,3,5.8,awd,diesel,52,Nissan,Sentra,a,2023
+1723,truck,119,123,0,0,rwd,electricity,128,Tesla,Model X,m,2012
+1724,economy,110,112,0,0,4wd,electricity,114,Mercedes,GLE350,m,2019
+1725,van,21,26,4,3.6,rwd,gas,31,Chevrolet,Equinox,m,2016
+1726,midsize,47,50,8,4.5,fwd,gas,53,Nissan,Versa,a,2016
+1727,economy,58,61,6,3.1,awd,gas,64,Mercedes,GLC300,a,2017
+1728,luxury,60,63,8,5.7,fwd,gas,66,Ford,F-150,a,2016
+1729,compact,23,25,4,1.7,rwd,gas,27,Tesla,Model Y,m,2018
+1730,economy,103,107,0,0,4wd,electricity,112,Honda,CR-V,a,2022
+1731,truck,45,46,6,2.5,rwd,diesel,48,Nissan,Rogue,a,2016
+1732,luxury,109,114,0,0,rwd,electricity,119,Toyota,Prius,a,2019
+1733,economy,34,36,12,2.7,awd,gas,39,Toyota,Camry,m,2012
+1734,fullsize,54,58,6,3.5,awd,gas,63,Mercedes,C300,a,2013
+1735,luxury,50,52,10,3.2,awd,diesel,54,Ford,Focus,a,2011
+1736,luxury,59,63,12,1.2,4wd,gas,68,Mercedes,C300,m,2017
+1737,midsize,39,40,10,1,4wd,gas,42,Honda,CR-V,a,2013
+1738,compact,47,51,6,4.4,4wd,diesel,56,Chevrolet,Cruze,a,2021
+1739,suv,92,96,0,0,awd,electricity,100,BMW,X3,m,2022
+1740,economy,94,95,0,0,awd,electricity,96,Ford,Fusion,a,2019
+1741,economy,48,52,3,3.4,awd,gas,56,Mercedes,C300,m,2018
+1742,midsize,56,61,8,3.4,rwd,gas,66,Toyota,Corolla,m,2023
+1743,fullsize,30,32,12,4.8,rwd,gas,35,Tesla,Model S,a,2015
+1744,midsize,34,35,10,2.9,rwd,gas,36,Mercedes,GLC300,a,2010
+1745,fullsize,115,117,0,0,awd,electricity,119,Honda,Civic,a,2020
+1746,luxury,52,57,4,2.3,rwd,gas,62,BMW,X3,a,2013
+1747,fullsize,93,94,0,0,4wd,electricity,96,Toyota,Prius,m,2020
+1748,suv,28,32,10,2.5,awd,gas,37,Mercedes,E350,m,2010
+1749,luxury,93,96,0,0,fwd,electricity,100,Tesla,Model S,a,2019
+1750,economy,16,19,10,3,fwd,gas,23,Toyota,Prius,a,2023
+1751,economy,33,37,12,5.7,awd,diesel,41,Mercedes,GLE350,a,2020
+1752,economy,45,47,8,2.1,awd,diesel,50,Mercedes,GLC300,a,2018
+1753,economy,103,106,0,0,4wd,electricity,109,Nissan,Rogue,a,2018
+1754,suv,38,39,6,2.8,fwd,diesel,41,Nissan,Rogue,m,2010
+1755,midsize,38,43,12,2.7,rwd,gas,48,Chevrolet,Malibu,m,2020
+1756,van,40,41,8,1.3,4wd,diesel,43,Ford,Fusion,a,2019
+1757,van,14,17,3,3.6,fwd,diesel,20,Chevrolet,Equinox,m,2022
+1758,economy,112,114,0,0,rwd,electricity,116,Ford,Focus,a,2013
+1759,luxury,11,13,8,5.4,4wd,diesel,16,Chevrolet,Malibu,a,2016
+1760,van,57,62,12,3.9,rwd,gas,67,Tesla,Model Y,m,2020
+1761,compact,112,116,0,0,fwd,electricity,121,Nissan,Versa,m,2016
+1762,economy,115,119,0,0,awd,electricity,123,BMW,320i,m,2012
+1763,suv,99,102,0,0,fwd,electricity,105,Honda,Civic,a,2022
+1764,economy,114,119,0,0,awd,electricity,124,Nissan,Rogue,m,2010
+1765,suv,51,52,10,2.5,4wd,gas,53,Mercedes,C300,a,2015
+1766,compact,25,26,10,6.4,4wd,diesel,28,Mercedes,GLE350,m,2011
+1767,economy,108,111,0,0,rwd,electricity,115,Honda,Fit,m,2017
+1768,suv,36,38,6,6.3,rwd,diesel,40,Honda,Fit,a,2017
+1769,fullsize,105,110,0,0,fwd,electricity,115,Toyota,Prius,m,2021
+1770,compact,52,55,3,1.5,awd,gas,59,Honda,Accord,m,2018
+1771,economy,119,124,0,0,awd,electricity,129,Chevrolet,Equinox,m,2022
+1772,compact,12,17,3,6.1,awd,diesel,22,Mercedes,GLE350,m,2016
+1773,midsize,32,34,4,3.2,fwd,gas,37,Ford,Focus,m,2021
+1774,truck,28,31,12,1,rwd,diesel,34,Mercedes,GLC300,a,2012
+1775,luxury,16,17,3,4.5,awd,diesel,18,Nissan,Rogue,m,2013
+1776,suv,15,17,12,4.8,awd,gas,19,Toyota,Camry,a,2023
+1777,suv,20,23,12,5.1,rwd,diesel,27,Toyota,Corolla,a,2021
+1778,suv,47,48,8,3.3,awd,gas,49,Ford,Fusion,a,2019
+1779,truck,39,42,3,3.6,awd,gas,46,BMW,X5,a,2010
+1780,suv,41,43,10,1.8,fwd,gas,46,Chevrolet,Malibu,a,2017
+1781,luxury,37,41,6,6.4,fwd,diesel,45,Tesla,Model S,m,2011
+1782,compact,14,17,4,6.4,fwd,gas,21,Toyota,RAV4,m,2019
+1783,luxury,36,41,10,5.7,rwd,diesel,46,Toyota,RAV4,a,2014
+1784,fullsize,115,119,0,0,fwd,electricity,124,Tesla,Model Y,a,2020
+1785,suv,38,41,8,2.8,fwd,diesel,44,Honda,Fit,a,2021
+1786,suv,22,27,4,5,4wd,diesel,32,Toyota,Prius,m,2013
+1787,economy,59,63,3,5.6,awd,gas,68,Mercedes,E350,m,2014
+1788,luxury,92,96,0,0,4wd,electricity,100,Nissan,Versa,a,2010
+1789,truck,22,26,3,4,rwd,diesel,30,Tesla,Model X,m,2020
+1790,van,25,29,12,4.3,rwd,gas,34,Tesla,Model 3,a,2015
+1791,suv,45,48,12,1.9,4wd,diesel,51,Chevrolet,Cruze,m,2017
+1792,truck,55,58,6,2.8,4wd,gas,62,Chevrolet,Malibu,m,2020
+1793,van,39,40,8,5.6,4wd,diesel,41,Chevrolet,Equinox,m,2014
+1794,midsize,41,46,6,1.1,awd,gas,51,Ford,F-150,m,2022
+1795,economy,29,30,6,6.2,awd,diesel,32,BMW,X5,a,2021
+1796,suv,114,116,0,0,rwd,electricity,119,Mercedes,GLE350,m,2011
+1797,van,24,29,12,2.5,4wd,gas,34,BMW,320i,a,2020
+1798,van,93,95,0,0,rwd,electricity,98,Ford,F-150,m,2020
+1799,midsize,60,62,3,1.7,rwd,diesel,64,Mercedes,C300,m,2012
+1800,van,116,121,0,0,rwd,electricity,126,Mercedes,GLE350,m,2021
+1801,economy,48,49,4,2.7,rwd,gas,50,BMW,X5,a,2020
+1802,van,60,64,6,6,rwd,diesel,68,Nissan,Altima,a,2018
+1803,suv,16,17,12,4.3,rwd,diesel,18,Chevrolet,Malibu,a,2021
+1804,compact,23,25,12,6.1,4wd,gas,28,Ford,Escape,a,2016
+1805,midsize,16,18,12,2.9,rwd,gas,21,Honda,Accord,m,2012
+1806,luxury,36,37,3,1.2,fwd,diesel,39,Toyota,Corolla,a,2018
+1807,truck,29,30,4,1.1,fwd,gas,32,Mercedes,GLC300,a,2015
+1808,suv,104,109,0,0,fwd,electricity,114,Nissan,Versa,a,2022
+1809,fullsize,114,118,0,0,rwd,electricity,122,Ford,Focus,m,2020
+1810,van,100,103,0,0,fwd,electricity,106,Honda,Civic,m,2019
+1811,luxury,53,57,12,4.1,awd,diesel,62,Honda,CR-V,m,2015
+1812,midsize,92,97,0,0,rwd,electricity,102,Honda,Civic,m,2018
+1813,suv,60,62,10,5.2,awd,diesel,65,Ford,Escape,m,2017
+1814,economy,102,103,0,0,rwd,electricity,104,Toyota,RAV4,a,2019
+1815,economy,11,15,3,3.6,rwd,diesel,19,Honda,Accord,a,2013
+1816,suv,37,42,4,1.7,rwd,diesel,47,Honda,Accord,a,2010
+1817,suv,98,101,0,0,rwd,electricity,104,Toyota,RAV4,a,2022
+1818,economy,99,104,0,0,awd,electricity,109,Toyota,Prius,m,2018
+1819,fullsize,95,97,0,0,fwd,electricity,100,Mercedes,E350,m,2010
+1820,fullsize,12,14,12,1.9,4wd,diesel,17,Mercedes,GLC300,a,2021
+1821,van,24,28,3,4.9,rwd,gas,32,Tesla,Model X,a,2021
+1822,compact,18,22,8,5.9,fwd,diesel,26,Nissan,Sentra,m,2017
+1823,truck,20,24,10,4.5,fwd,diesel,29,Ford,Fusion,a,2016
+1824,luxury,44,46,10,3.5,awd,diesel,49,Toyota,RAV4,m,2014
+1825,luxury,101,103,0,0,4wd,electricity,106,Nissan,Sentra,a,2021
+1826,compact,44,47,12,2.2,rwd,diesel,50,Ford,Fusion,m,2022
+1827,truck,45,48,6,2.6,fwd,diesel,52,Tesla,Model Y,a,2015
+1828,economy,10,15,6,4.8,awd,diesel,20,BMW,X3,m,2014
+1829,compact,41,45,4,4.7,fwd,gas,50,Ford,Fusion,m,2014
+1830,compact,112,117,0,0,fwd,electricity,122,Nissan,Versa,a,2020
+1831,truck,49,51,6,3.6,rwd,diesel,53,Tesla,Model S,m,2018
+1832,truck,13,18,8,1.4,4wd,diesel,23,Honda,CR-V,a,2017
+1833,fullsize,12,16,10,1.9,fwd,gas,21,Toyota,Prius,a,2013
+1834,suv,22,24,3,1.2,rwd,diesel,26,Honda,CR-V,m,2020
+1835,compact,44,45,4,6.4,4wd,diesel,46,Honda,Civic,a,2013
+1836,luxury,59,62,10,1.6,4wd,diesel,65,Mercedes,C300,a,2018
+1837,truck,101,104,0,0,rwd,electricity,108,Toyota,Camry,m,2023
+1838,luxury,55,58,3,3.3,fwd,gas,61,Nissan,Versa,a,2011
+1839,luxury,119,122,0,0,fwd,electricity,125,Ford,Focus,a,2019
+1840,suv,60,64,8,3.7,rwd,gas,69,Ford,F-150,m,2018
+1841,economy,17,18,3,5.7,awd,diesel,20,Ford,Fusion,a,2019
+1842,midsize,108,112,0,0,fwd,electricity,116,BMW,X5,a,2021
+1843,luxury,108,112,0,0,rwd,electricity,116,BMW,320i,a,2018
+1844,midsize,55,58,10,4,awd,diesel,62,Tesla,Model Y,m,2017
+1845,economy,36,39,10,4,fwd,diesel,43,Toyota,Prius,m,2013
+1846,compact,34,35,10,1.2,fwd,gas,37,Toyota,Corolla,m,2021
+1847,compact,46,51,6,1.9,4wd,diesel,56,Tesla,Model 3,a,2021
+1848,luxury,28,32,4,3.6,4wd,diesel,37,Chevrolet,Equinox,a,2011
+1849,compact,96,99,0,0,fwd,electricity,103,Toyota,Corolla,a,2010
+1850,compact,14,17,6,4.3,fwd,diesel,21,Toyota,Corolla,m,2018
+1851,fullsize,60,64,3,1.5,4wd,gas,68,Toyota,RAV4,m,2013
+1852,truck,32,35,3,4.6,awd,gas,38,Nissan,Rogue,a,2022
+1853,compact,12,16,12,5.7,awd,gas,21,Tesla,Model 3,m,2014
+1854,midsize,92,97,0,0,4wd,electricity,102,Mercedes,E350,m,2015
+1855,van,54,56,12,2.1,rwd,diesel,58,Honda,CR-V,m,2019
+1856,fullsize,90,91,0,0,4wd,electricity,92,Chevrolet,Malibu,a,2012
+1857,midsize,19,21,4,1.7,awd,diesel,24,Ford,Escape,a,2023
+1858,fullsize,32,37,12,2.5,fwd,diesel,42,Ford,Fusion,m,2021
+1859,fullsize,57,58,8,3,fwd,gas,59,BMW,X5,m,2015
+1860,van,18,23,4,2.3,4wd,gas,28,Chevrolet,Cruze,a,2015
+1861,suv,96,99,0,0,awd,electricity,103,Toyota,Prius,a,2012
+1862,midsize,44,48,6,1.4,rwd,gas,52,Mercedes,C300,a,2015
+1863,luxury,20,21,8,4.3,rwd,gas,23,BMW,320i,m,2015
+1864,midsize,20,23,3,4.8,rwd,gas,26,Toyota,Camry,a,2018
+1865,midsize,19,21,3,1.1,fwd,gas,24,Ford,Focus,m,2022
+1866,truck,55,56,3,2.2,rwd,gas,57,BMW,320i,a,2017
+1867,truck,97,101,0,0,fwd,electricity,105,Ford,F-150,m,2010
+1868,suv,94,98,0,0,awd,electricity,103,Chevrolet,Equinox,m,2012
+1869,truck,107,108,0,0,rwd,electricity,109,Honda,Civic,m,2015
+1870,compact,24,29,3,6,awd,diesel,34,BMW,X3,a,2016
+1871,van,93,96,0,0,awd,electricity,100,Mercedes,GLE350,a,2018
+1872,luxury,110,113,0,0,fwd,electricity,116,Chevrolet,Cruze,a,2010
+1873,van,41,42,4,5.1,rwd,gas,43,Toyota,Camry,m,2011
+1874,van,32,34,4,2.2,fwd,diesel,36,Honda,Civic,a,2013
+1875,luxury,110,111,0,0,awd,electricity,112,Toyota,Prius,m,2021
+1876,luxury,17,20,12,5,rwd,diesel,23,Toyota,Corolla,m,2011
+1877,luxury,20,23,8,4.4,rwd,diesel,27,BMW,X5,a,2010
+1878,compact,22,24,4,6.2,4wd,gas,26,BMW,X3,m,2018
+1879,compact,117,119,0,0,4wd,electricity,122,Tesla,Model Y,a,2016
+1880,economy,110,112,0,0,4wd,electricity,115,Nissan,Rogue,a,2010
+1881,luxury,57,60,8,2.8,fwd,diesel,64,Chevrolet,Malibu,a,2023
+1882,van,107,108,0,0,4wd,electricity,110,Chevrolet,Malibu,m,2011
+1883,midsize,39,41,6,5.1,4wd,diesel,43,Toyota,RAV4,a,2012
+1884,truck,113,117,0,0,fwd,electricity,121,Mercedes,C300,a,2010
+1885,compact,32,36,10,3.2,rwd,diesel,41,Ford,Escape,a,2016
+1886,fullsize,37,41,10,4.7,4wd,diesel,46,Toyota,RAV4,a,2016
+1887,economy,12,16,4,3,4wd,diesel,21,Mercedes,C300,m,2023
+1888,van,16,17,3,4.7,fwd,gas,18,BMW,X5,m,2012
+1889,luxury,30,31,6,3.1,awd,gas,33,Chevrolet,Silverado,m,2017
+1890,truck,20,23,12,1.4,rwd,gas,26,Mercedes,C300,a,2014
+1891,suv,102,104,0,0,awd,electricity,107,Chevrolet,Cruze,a,2011
+1892,van,19,20,4,1.3,rwd,diesel,22,Mercedes,C300,a,2022
+1893,fullsize,49,52,10,3,fwd,gas,55,Mercedes,E350,m,2010
+1894,truck,95,99,0,0,rwd,electricity,104,Chevrolet,Silverado,m,2015
+1895,compact,16,17,12,3.2,fwd,diesel,19,Mercedes,C300,a,2018
+1896,luxury,119,121,0,0,rwd,electricity,124,Ford,Fusion,m,2020
+1897,midsize,39,44,12,2,rwd,diesel,49,BMW,X5,m,2016
+1898,economy,10,14,3,1.8,fwd,diesel,19,Tesla,Model 3,m,2014
+1899,truck,51,55,8,2,fwd,diesel,59,Tesla,Model X,m,2020
+1900,luxury,15,16,10,1.9,fwd,gas,18,Toyota,RAV4,m,2011
+1901,midsize,29,31,4,6,awd,diesel,34,Toyota,RAV4,a,2021
+1902,van,44,46,10,1.9,awd,gas,49,Mercedes,GLC300,m,2013
+1903,suv,105,107,0,0,rwd,electricity,110,Nissan,Rogue,a,2023
+1904,van,30,32,10,1.9,4wd,gas,35,BMW,X5,m,2012
+1905,suv,41,46,8,4.2,fwd,diesel,51,Tesla,Model Y,a,2014
+1906,midsize,37,41,6,5.3,rwd,gas,45,Tesla,Model X,m,2018
+1907,fullsize,21,24,8,2.7,awd,diesel,27,Chevrolet,Malibu,m,2012
+1908,economy,92,93,0,0,rwd,electricity,94,Mercedes,C300,a,2022
+1909,suv,118,122,0,0,awd,electricity,127,Honda,Civic,m,2013
+1910,suv,38,40,12,1.8,rwd,gas,43,Chevrolet,Equinox,a,2022
+1911,suv,58,59,12,2.9,4wd,gas,61,Chevrolet,Cruze,a,2019
+1912,fullsize,33,36,10,1.6,4wd,gas,40,Ford,Fusion,a,2019
+1913,suv,50,52,12,1.6,4wd,diesel,54,Chevrolet,Cruze,a,2010
+1914,fullsize,50,52,10,2.3,4wd,gas,55,Nissan,Rogue,a,2015
+1915,fullsize,119,124,0,0,fwd,electricity,129,Honda,Civic,m,2016
+1916,suv,60,61,10,2.4,awd,gas,63,Chevrolet,Silverado,m,2020
+1917,truck,90,93,0,0,awd,electricity,97,Honda,CR-V,a,2013
+1918,truck,37,42,12,5.6,rwd,gas,47,Ford,F-150,m,2011
+1919,van,57,62,6,5.1,rwd,gas,67,Honda,Civic,a,2020
+1920,compact,59,61,8,3.9,rwd,diesel,63,Mercedes,E350,m,2016
+1921,compact,57,61,6,3.3,fwd,gas,65,BMW,X5,a,2017
+1922,economy,94,95,0,0,awd,electricity,96,Nissan,Sentra,a,2023
+1923,compact,104,105,0,0,awd,electricity,107,Honda,CR-V,a,2023
+1924,suv,98,100,0,0,awd,electricity,103,Tesla,Model S,m,2017
+1925,compact,21,24,6,5.1,rwd,gas,27,Nissan,Sentra,a,2011
+1926,truck,94,97,0,0,fwd,electricity,100,Ford,Escape,m,2018
+1927,fullsize,21,25,3,2.8,rwd,gas,30,Ford,Focus,a,2014
+1928,economy,45,46,6,3.4,fwd,diesel,48,Chevrolet,Cruze,a,2015
+1929,compact,20,25,12,5.6,awd,diesel,30,BMW,X3,m,2019
+1930,midsize,34,37,8,3.5,rwd,diesel,41,Chevrolet,Silverado,a,2016
+1931,luxury,120,125,0,0,fwd,electricity,130,Toyota,Corolla,m,2017
+1932,economy,50,54,8,2,fwd,diesel,58,Nissan,Sentra,m,2012
+1933,fullsize,43,47,10,4.2,awd,diesel,51,Ford,Focus,a,2022
+1934,fullsize,52,57,4,3.6,rwd,gas,62,Toyota,Corolla,m,2021
+1935,truck,45,46,3,5.8,awd,diesel,48,Nissan,Versa,m,2013
+1936,luxury,38,40,10,3.9,fwd,gas,43,Ford,Escape,m,2014
+1937,economy,104,105,0,0,rwd,electricity,107,Toyota,Camry,m,2021
+1938,economy,117,119,0,0,rwd,electricity,122,Tesla,Model X,m,2021
+1939,suv,15,20,8,5.5,fwd,diesel,25,Honda,Fit,m,2013
+1940,van,45,46,10,2,rwd,diesel,47,Tesla,Model X,m,2012
+1941,van,17,22,8,4.3,rwd,diesel,27,Chevrolet,Equinox,m,2012
+1942,suv,28,32,8,3.1,rwd,diesel,37,BMW,X3,m,2016
+1943,compact,107,111,0,0,awd,electricity,115,Toyota,RAV4,m,2017
+1944,van,20,24,8,4.9,fwd,gas,29,Honda,Fit,m,2013
+1945,fullsize,17,21,3,5.7,fwd,gas,25,Nissan,Altima,m,2012
+1946,midsize,41,42,10,3.5,fwd,gas,43,Nissan,Versa,a,2010
+1947,van,60,65,4,1.3,awd,gas,70,Mercedes,C300,a,2021
+1948,truck,54,59,3,1.7,4wd,diesel,64,Tesla,Model X,a,2023
+1949,fullsize,90,93,0,0,fwd,electricity,96,Chevrolet,Silverado,m,2021
+1950,truck,96,101,0,0,fwd,electricity,106,Honda,Civic,a,2012
+1951,van,119,120,0,0,4wd,electricity,121,Ford,Fusion,m,2011
+1952,suv,13,17,10,4.3,rwd,gas,21,Honda,CR-V,a,2014
+1953,midsize,99,100,0,0,awd,electricity,101,BMW,X3,m,2015
+1954,truck,11,14,8,1.5,awd,gas,18,Ford,Escape,m,2017
+1955,compact,53,57,6,1.7,4wd,gas,61,Toyota,Camry,m,2019
+1956,van,59,62,10,4.4,fwd,gas,66,Honda,Accord,a,2019
+1957,luxury,14,18,12,5.6,rwd,gas,23,Nissan,Sentra,m,2015
+1958,economy,20,24,3,3.7,4wd,diesel,29,Tesla,Model 3,m,2020
+1959,compact,18,21,3,2,4wd,gas,25,Chevrolet,Equinox,m,2011
+1960,luxury,110,113,0,0,fwd,electricity,117,Tesla,Model Y,m,2012
+1961,economy,53,55,3,5.9,fwd,diesel,57,Nissan,Versa,a,2012
+1962,fullsize,40,44,10,3.8,rwd,diesel,49,Mercedes,C300,a,2022
+1963,luxury,108,109,0,0,fwd,electricity,110,Honda,Accord,a,2017
+1964,midsize,92,96,0,0,rwd,electricity,100,BMW,320i,a,2016
+1965,van,94,95,0,0,4wd,electricity,97,Tesla,Model X,a,2023
+1966,fullsize,109,111,0,0,fwd,electricity,113,Mercedes,C300,a,2018
+1967,compact,120,121,0,0,4wd,electricity,123,Honda,Fit,m,2016
+1968,fullsize,13,15,10,5.9,rwd,diesel,18,Ford,F-150,a,2010
+1969,luxury,107,108,0,0,4wd,electricity,110,Chevrolet,Silverado,a,2010
+1970,truck,119,120,0,0,4wd,electricity,121,Mercedes,GLC300,m,2018
+1971,midsize,53,54,3,2.2,rwd,gas,55,Chevrolet,Silverado,m,2016
+1972,truck,12,14,10,6,fwd,diesel,17,BMW,X5,a,2013
+1973,suv,30,33,3,1,awd,gas,37,Chevrolet,Silverado,m,2022
+1974,van,92,93,0,0,awd,electricity,94,Chevrolet,Silverado,m,2010
+1975,van,23,26,8,2.9,4wd,diesel,30,BMW,320i,a,2023
+1976,van,29,30,8,1.1,4wd,diesel,32,Nissan,Versa,m,2011
+1977,fullsize,96,99,0,0,fwd,electricity,102,Nissan,Versa,m,2021
+1978,truck,116,118,0,0,awd,electricity,121,Toyota,Corolla,a,2013
+1979,fullsize,16,20,10,1.4,awd,diesel,25,BMW,528i,m,2018
+1980,fullsize,117,120,0,0,fwd,electricity,123,Tesla,Model 3,m,2019
+1981,compact,56,58,12,6,fwd,gas,60,Toyota,RAV4,m,2016
+1982,suv,27,30,4,4.6,4wd,diesel,34,Ford,Focus,m,2010
+1983,van,46,50,6,5,awd,gas,54,Nissan,Rogue,m,2016
+1984,van,25,27,8,6.3,4wd,gas,30,Nissan,Sentra,m,2018
+1985,midsize,51,53,12,4.2,4wd,gas,55,Tesla,Model S,a,2014
+1986,economy,44,48,10,3.8,fwd,diesel,53,Chevrolet,Malibu,a,2019
+1987,midsize,37,41,10,5.2,4wd,diesel,45,Chevrolet,Silverado,m,2012
+1988,luxury,120,122,0,0,fwd,electricity,125,Toyota,Prius,a,2014
+1989,truck,13,16,6,3,4wd,gas,20,Nissan,Versa,a,2017
+1990,midsize,52,56,8,1.1,rwd,gas,60,Toyota,Camry,m,2014
+1991,truck,95,98,0,0,rwd,electricity,102,Tesla,Model X,m,2020
+1992,midsize,10,13,8,6.1,awd,gas,17,Tesla,Model 3,a,2018
+1993,suv,96,99,0,0,awd,electricity,103,Toyota,Prius,a,2019
+1994,suv,108,111,0,0,4wd,electricity,114,Toyota,Prius,a,2017
+1995,truck,12,13,10,2.8,fwd,diesel,14,Mercedes,GLC300,a,2010
+1996,truck,32,33,6,3,rwd,diesel,35,Honda,CR-V,m,2015
+1997,luxury,31,34,4,3.6,rwd,gas,38,Toyota,Corolla,a,2011
+1998,suv,47,49,6,5.1,awd,diesel,51,Toyota,RAV4,a,2020
+1999,suv,50,54,10,2.2,awd,diesel,59,Nissan,Versa,m,2013
+2000,midsize,96,98,0,0,fwd,electricity,100,Honda,CR-V,a,2021
