@@ -97,3 +97,4 @@ F:\Projects\car\car-image-api\obj\Debug\net8.0\refint\car-image-api.dll
 F:\Projects\car\car-image-api\obj\Debug\net8.0\car-image-api.pdb
 F:\Projects\car\car-image-api\obj\Debug\net8.0\car-image-api.genruntimeconfig.cache
 F:\Projects\car\car-image-api\obj\Debug\net8.0\ref\car-image-api.dll
+C:\Users\Lahiru\Documents\PROJECTS\car\car-image-api\obj\Debug\net8.0\car-image-api.sourcelink.json

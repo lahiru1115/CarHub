@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rGaDsIuDW8731iWgFFvgmgpT6S2Ym72Q2DFMVdQloDE=",
+  "Hash": "PiC2dKLBw6lAYp2KKQjD54TzW5LboSWA/PFEZ3Nvczc=",
   "Source": "car-image-api",
   "BasePath": "_content/car-image-api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "car-image-api\\wwwroot",
       "Source": "car-image-api",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\2018-bmw-3-series-320i-sedan-front-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\2018-bmw-3-series-320i-sedan-front-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/320i/2018/2018-bmw-3-series-320i-sedan-front-view.png",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\320i\\2018\\2018-bmw-3-series-320i-sedan-front-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\2018-bmw-3-series-320i-sedan-low-aggressive.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\2018-bmw-3-series-320i-sedan-low-aggressive.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/320i/2018/2018-bmw-3-series-320i-sedan-low-aggressive.png",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\320i\\2018\\2018-bmw-3-series-320i-sedan-low-aggressive.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\2018-bmw-3-series-320i-sedan-rear-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\2018-bmw-3-series-320i-sedan-rear-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/320i/2018/2018-bmw-3-series-320i-sedan-rear-view.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\320i\\2018\\2018-bmw-3-series-320i-sedan-rear-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\2018-bmw-3-series-320i-sedan-side-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\2018-bmw-3-series-320i-sedan-side-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/320i/2018/2018-bmw-3-series-320i-sedan-side-view.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\320i\\2018\\2018-bmw-3-series-320i-sedan-side-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\jpg\\2018-bmw-3-series-320i-sedan-front-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\jpg\\2018-bmw-3-series-320i-sedan-front-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/320i/2018/jpg/2018-bmw-3-series-320i-sedan-front-view.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\320i\\2018\\jpg\\2018-bmw-3-series-320i-sedan-front-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\jpg\\2018-bmw-3-series-320i-sedan-low-aggressive.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\jpg\\2018-bmw-3-series-320i-sedan-low-aggressive.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/320i/2018/jpg/2018-bmw-3-series-320i-sedan-low-aggressive.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\320i\\2018\\jpg\\2018-bmw-3-series-320i-sedan-low-aggressive.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\jpg\\2018-bmw-3-series-320i-sedan-rear-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\jpg\\2018-bmw-3-series-320i-sedan-rear-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/320i/2018/jpg/2018-bmw-3-series-320i-sedan-rear-view.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\320i\\2018\\jpg\\2018-bmw-3-series-320i-sedan-rear-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\jpg\\2018-bmw-3-series-320i-sedan-side-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\320i\\2018\\jpg\\2018-bmw-3-series-320i-sedan-side-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/320i/2018/jpg/2018-bmw-3-series-320i-sedan-side-view.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\320i\\2018\\jpg\\2018-bmw-3-series-320i-sedan-side-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\2015-bmw-5-series-528i-4door-sedan-front-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\2015-bmw-5-series-528i-4door-sedan-front-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/528i/2020/2015-bmw-5-series-528i-4door-sedan-front-view.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\528i\\2020\\2015-bmw-5-series-528i-4door-sedan-front-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\2015-bmw-5-series-528i-4door-sedan-low-aggressive.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\2015-bmw-5-series-528i-4door-sedan-low-aggressive.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/528i/2020/2015-bmw-5-series-528i-4door-sedan-low-aggressive.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\528i\\2020\\2015-bmw-5-series-528i-4door-sedan-low-aggressive.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\2015-bmw-5-series-528i-4door-sedan-rear-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\2015-bmw-5-series-528i-4door-sedan-rear-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/528i/2020/2015-bmw-5-series-528i-4door-sedan-rear-view.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\528i\\2020\\2015-bmw-5-series-528i-4door-sedan-rear-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\2015-bmw-5-series-528i-4door-sedan-side-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\2015-bmw-5-series-528i-4door-sedan-side-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/528i/2020/2015-bmw-5-series-528i-4door-sedan-side-view.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\528i\\2020\\2015-bmw-5-series-528i-4door-sedan-side-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\jpg\\2015-bmw-5-series-528i-4door-sedan-front-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\jpg\\2015-bmw-5-series-528i-4door-sedan-front-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/528i/2020/jpg/2015-bmw-5-series-528i-4door-sedan-front-view.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\528i\\2020\\jpg\\2015-bmw-5-series-528i-4door-sedan-front-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\jpg\\2015-bmw-5-series-528i-4door-sedan-low-aggressive.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\jpg\\2015-bmw-5-series-528i-4door-sedan-low-aggressive.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/528i/2020/jpg/2015-bmw-5-series-528i-4door-sedan-low-aggressive.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\528i\\2020\\jpg\\2015-bmw-5-series-528i-4door-sedan-low-aggressive.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\jpg\\2015-bmw-5-series-528i-4door-sedan-rear-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\jpg\\2015-bmw-5-series-528i-4door-sedan-rear-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/528i/2020/jpg/2015-bmw-5-series-528i-4door-sedan-rear-view.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\528i\\2020\\jpg\\2015-bmw-5-series-528i-4door-sedan-rear-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\jpg\\2015-bmw-5-series-528i-4door-sedan-side-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\bmw\\528i\\2020\\jpg\\2015-bmw-5-series-528i-4door-sedan-side-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/bmw/528i/2020/jpg/2015-bmw-5-series-528i-4door-sedan-side-view.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\bmw\\528i\\2020\\jpg\\2015-bmw-5-series-528i-4door-sedan-side-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\2023-chevrolet-malibu-lt-sedan-front-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\2023-chevrolet-malibu-lt-sedan-front-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/chevrolet/malibu/2023/2023-chevrolet-malibu-lt-sedan-front-view.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\2023-chevrolet-malibu-lt-sedan-front-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\2023-chevrolet-malibu-lt-sedan-low-aggressive.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\2023-chevrolet-malibu-lt-sedan-low-aggressive.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/chevrolet/malibu/2023/2023-chevrolet-malibu-lt-sedan-low-aggressive.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\2023-chevrolet-malibu-lt-sedan-low-aggressive.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\2023-chevrolet-malibu-lt-sedan-rear-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\2023-chevrolet-malibu-lt-sedan-rear-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/chevrolet/malibu/2023/2023-chevrolet-malibu-lt-sedan-rear-view.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\2023-chevrolet-malibu-lt-sedan-rear-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\2023-chevrolet-malibu-lt-sedan-side-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\2023-chevrolet-malibu-lt-sedan-side-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/chevrolet/malibu/2023/2023-chevrolet-malibu-lt-sedan-side-view.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\2023-chevrolet-malibu-lt-sedan-side-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\jpg\\2023-chevrolet-malibu-lt-sedan-front-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\jpg\\2023-chevrolet-malibu-lt-sedan-front-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/chevrolet/malibu/2023/jpg/2023-chevrolet-malibu-lt-sedan-front-view.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\jpg\\2023-chevrolet-malibu-lt-sedan-front-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\jpg\\2023-chevrolet-malibu-lt-sedan-low-aggressive.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\jpg\\2023-chevrolet-malibu-lt-sedan-low-aggressive.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/chevrolet/malibu/2023/jpg/2023-chevrolet-malibu-lt-sedan-low-aggressive.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\jpg\\2023-chevrolet-malibu-lt-sedan-low-aggressive.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\jpg\\2023-chevrolet-malibu-lt-sedan-rear-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\jpg\\2023-chevrolet-malibu-lt-sedan-rear-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/chevrolet/malibu/2023/jpg/2023-chevrolet-malibu-lt-sedan-rear-view.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\jpg\\2023-chevrolet-malibu-lt-sedan-rear-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\jpg\\2023-chevrolet-malibu-lt-sedan-side-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\jpg\\2023-chevrolet-malibu-lt-sedan-side-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/chevrolet/malibu/2023/jpg/2023-chevrolet-malibu-lt-sedan-side-view.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\chevrolet\\malibu\\2023\\jpg\\2023-chevrolet-malibu-lt-sedan-side-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\default\\car.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\default\\car.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/default/car.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\default\\car.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\2020-ford-f-150-raptor-4wd-pick-up-front-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\2020-ford-f-150-raptor-4wd-pick-up-front-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/ford/f-150/2020/2020-ford-f-150-raptor-4wd-pick-up-front-view.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\ford\\f-150\\2020\\2020-ford-f-150-raptor-4wd-pick-up-front-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\2020-ford-f-150-raptor-4wd-pick-up-low-aggressive.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\2020-ford-f-150-raptor-4wd-pick-up-low-aggressive.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/ford/f-150/2020/2020-ford-f-150-raptor-4wd-pick-up-low-aggressive.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\ford\\f-150\\2020\\2020-ford-f-150-raptor-4wd-pick-up-low-aggressive.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\2020-ford-f-150-raptor-4wd-pick-up-rear-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\2020-ford-f-150-raptor-4wd-pick-up-rear-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/ford/f-150/2020/2020-ford-f-150-raptor-4wd-pick-up-rear-view.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\ford\\f-150\\2020\\2020-ford-f-150-raptor-4wd-pick-up-rear-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\2020-ford-f-150-raptor-4wd-pick-up-side-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\2020-ford-f-150-raptor-4wd-pick-up-side-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/ford/f-150/2020/2020-ford-f-150-raptor-4wd-pick-up-side-view.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\ford\\f-150\\2020\\2020-ford-f-150-raptor-4wd-pick-up-side-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\jpg\\2020-ford-f-150-raptor-4wd-pick-up-front-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\jpg\\2020-ford-f-150-raptor-4wd-pick-up-front-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/ford/f-150/2020/jpg/2020-ford-f-150-raptor-4wd-pick-up-front-view.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\ford\\f-150\\2020\\jpg\\2020-ford-f-150-raptor-4wd-pick-up-front-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\jpg\\2020-ford-f-150-raptor-4wd-pick-up-low-aggressive.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\jpg\\2020-ford-f-150-raptor-4wd-pick-up-low-aggressive.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/ford/f-150/2020/jpg/2020-ford-f-150-raptor-4wd-pick-up-low-aggressive.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\ford\\f-150\\2020\\jpg\\2020-ford-f-150-raptor-4wd-pick-up-low-aggressive.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\jpg\\2020-ford-f-150-raptor-4wd-pick-up-rear-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\jpg\\2020-ford-f-150-raptor-4wd-pick-up-rear-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/ford/f-150/2020/jpg/2020-ford-f-150-raptor-4wd-pick-up-rear-view.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\ford\\f-150\\2020\\jpg\\2020-ford-f-150-raptor-4wd-pick-up-rear-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\jpg\\2020-ford-f-150-raptor-4wd-pick-up-side-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\ford\\f-150\\2020\\jpg\\2020-ford-f-150-raptor-4wd-pick-up-side-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/ford/f-150/2020/jpg/2020-ford-f-150-raptor-4wd-pick-up-side-view.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\ford\\f-150\\2020\\jpg\\2020-ford-f-150-raptor-4wd-pick-up-side-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\2013-honda-civic-ex-auto-sedan-front-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\2013-honda-civic-ex-auto-sedan-front-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/honda/civic/2013/2013-honda-civic-ex-auto-sedan-front-view.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\honda\\civic\\2013\\2013-honda-civic-ex-auto-sedan-front-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\2013-honda-civic-ex-auto-sedan-low-aggressive.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\2013-honda-civic-ex-auto-sedan-low-aggressive.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/honda/civic/2013/2013-honda-civic-ex-auto-sedan-low-aggressive.png",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\honda\\civic\\2013\\2013-honda-civic-ex-auto-sedan-low-aggressive.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\2013-honda-civic-ex-auto-sedan-rear-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\2013-honda-civic-ex-auto-sedan-rear-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/honda/civic/2013/2013-honda-civic-ex-auto-sedan-rear-view.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\honda\\civic\\2013\\2013-honda-civic-ex-auto-sedan-rear-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\2013-honda-civic-ex-auto-sedan-side-view-driver.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\2013-honda-civic-ex-auto-sedan-side-view-driver.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/honda/civic/2013/2013-honda-civic-ex-auto-sedan-side-view-driver.png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\honda\\civic\\2013\\2013-honda-civic-ex-auto-sedan-side-view-driver.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\jpg\\2013-honda-civic-ex-auto-sedan-front-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\jpg\\2013-honda-civic-ex-auto-sedan-front-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/honda/civic/2013/jpg/2013-honda-civic-ex-auto-sedan-front-view.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\honda\\civic\\2013\\jpg\\2013-honda-civic-ex-auto-sedan-front-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\jpg\\2013-honda-civic-ex-auto-sedan-low-aggressive.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\jpg\\2013-honda-civic-ex-auto-sedan-low-aggressive.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/honda/civic/2013/jpg/2013-honda-civic-ex-auto-sedan-low-aggressive.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\honda\\civic\\2013\\jpg\\2013-honda-civic-ex-auto-sedan-low-aggressive.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\jpg\\2013-honda-civic-ex-auto-sedan-rear-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\jpg\\2013-honda-civic-ex-auto-sedan-rear-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/honda/civic/2013/jpg/2013-honda-civic-ex-auto-sedan-rear-view.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\honda\\civic\\2013\\jpg\\2013-honda-civic-ex-auto-sedan-rear-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\jpg\\2013-honda-civic-ex-auto-sedan-side-view-driver.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\honda\\civic\\2013\\jpg\\2013-honda-civic-ex-auto-sedan-side-view-driver.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/honda/civic/2013/jpg/2013-honda-civic-ex-auto-sedan-side-view-driver.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\honda\\civic\\2013\\jpg\\2013-honda-civic-ex-auto-sedan-side-view-driver.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-front-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-front-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/mercedes/gle350/2016/2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-front-view.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\mercedes\\gle350\\2016\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-front-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-low-aggressive.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-low-aggressive.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/mercedes/gle350/2016/2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-low-aggressive.png",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\mercedes\\gle350\\2016\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-low-aggressive.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-rear-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-rear-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/mercedes/gle350/2016/2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-rear-view.png",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\mercedes\\gle350\\2016\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-rear-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-side-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-side-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/mercedes/gle350/2016/2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-side-view.png",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\mercedes\\gle350\\2016\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-side-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\jpg\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-front-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\jpg\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-front-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/mercedes/gle350/2016/jpg/2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-front-view.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\mercedes\\gle350\\2016\\jpg\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-front-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\jpg\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-low-aggressive.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\jpg\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-low-aggressive.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/mercedes/gle350/2016/jpg/2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-low-aggressive.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\mercedes\\gle350\\2016\\jpg\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-low-aggressive.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\jpg\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-rear-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\jpg\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-rear-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/mercedes/gle350/2016/jpg/2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-rear-view.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\mercedes\\gle350\\2016\\jpg\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-rear-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\jpg\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-side-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\mercedes\\gle350\\2016\\jpg\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-side-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/mercedes/gle350/2016/jpg/2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-side-view.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\mercedes\\gle350\\2016\\jpg\\2024-mercedes-benz-gle-350-mild-hybrid-4wd-suv-side-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\2017-nissan-sentra-s-4door-sedan-front-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\2017-nissan-sentra-s-4door-sedan-front-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/nissan/sentra/2018/2017-nissan-sentra-s-4door-sedan-front-view.png",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\nissan\\sentra\\2018\\2017-nissan-sentra-s-4door-sedan-front-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\2017-nissan-sentra-s-4door-sedan-low-aggressive.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\2017-nissan-sentra-s-4door-sedan-low-aggressive.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/nissan/sentra/2018/2017-nissan-sentra-s-4door-sedan-low-aggressive.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\nissan\\sentra\\2018\\2017-nissan-sentra-s-4door-sedan-low-aggressive.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\2017-nissan-sentra-s-4door-sedan-rear-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\2017-nissan-sentra-s-4door-sedan-rear-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/nissan/sentra/2018/2017-nissan-sentra-s-4door-sedan-rear-view.png",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\nissan\\sentra\\2018\\2017-nissan-sentra-s-4door-sedan-rear-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\2017-nissan-sentra-s-4door-sedan-side-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\2017-nissan-sentra-s-4door-sedan-side-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/nissan/sentra/2018/2017-nissan-sentra-s-4door-sedan-side-view.png",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\nissan\\sentra\\2018\\2017-nissan-sentra-s-4door-sedan-side-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\jpg\\2017-nissan-sentra-s-4door-sedan-front-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\jpg\\2017-nissan-sentra-s-4door-sedan-front-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/nissan/sentra/2018/jpg/2017-nissan-sentra-s-4door-sedan-front-view.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\nissan\\sentra\\2018\\jpg\\2017-nissan-sentra-s-4door-sedan-front-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\jpg\\2017-nissan-sentra-s-4door-sedan-low-aggressive.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\jpg\\2017-nissan-sentra-s-4door-sedan-low-aggressive.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/nissan/sentra/2018/jpg/2017-nissan-sentra-s-4door-sedan-low-aggressive.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\nissan\\sentra\\2018\\jpg\\2017-nissan-sentra-s-4door-sedan-low-aggressive.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\jpg\\2017-nissan-sentra-s-4door-sedan-rear-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\jpg\\2017-nissan-sentra-s-4door-sedan-rear-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/nissan/sentra/2018/jpg/2017-nissan-sentra-s-4door-sedan-rear-view.jpg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\nissan\\sentra\\2018\\jpg\\2017-nissan-sentra-s-4door-sedan-rear-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\jpg\\2017-nissan-sentra-s-4door-sedan-side-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\nissan\\sentra\\2018\\jpg\\2017-nissan-sentra-s-4door-sedan-side-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/nissan/sentra/2018/jpg/2017-nissan-sentra-s-4door-sedan-side-view.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\nissan\\sentra\\2018\\jpg\\2017-nissan-sentra-s-4door-sedan-side-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\2014-tesla-model-s-sedan-front-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\2014-tesla-model-s-sedan-front-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model 3/2019/2014-tesla-model-s-sedan-front-view.png",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model 3\\2019\\2014-tesla-model-s-sedan-front-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\2014-tesla-model-s-sedan-low-aggressive.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\2014-tesla-model-s-sedan-low-aggressive.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model 3/2019/2014-tesla-model-s-sedan-low-aggressive.png",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model 3\\2019\\2014-tesla-model-s-sedan-low-aggressive.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\2014-tesla-model-s-sedan-rear-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\2014-tesla-model-s-sedan-rear-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model 3/2019/2014-tesla-model-s-sedan-rear-view.png",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model 3\\2019\\2014-tesla-model-s-sedan-rear-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\2014-tesla-model-s-sedan-side-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\2014-tesla-model-s-sedan-side-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model 3/2019/2014-tesla-model-s-sedan-side-view.png",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model 3\\2019\\2014-tesla-model-s-sedan-side-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\jpg\\2014-tesla-model-s-sedan-front-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\jpg\\2014-tesla-model-s-sedan-front-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model 3/2019/jpg/2014-tesla-model-s-sedan-front-view.jpg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model 3\\2019\\jpg\\2014-tesla-model-s-sedan-front-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\jpg\\2014-tesla-model-s-sedan-low-aggressive.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\jpg\\2014-tesla-model-s-sedan-low-aggressive.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model 3/2019/jpg/2014-tesla-model-s-sedan-low-aggressive.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model 3\\2019\\jpg\\2014-tesla-model-s-sedan-low-aggressive.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\jpg\\2014-tesla-model-s-sedan-rear-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\jpg\\2014-tesla-model-s-sedan-rear-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model 3/2019/jpg/2014-tesla-model-s-sedan-rear-view.jpg",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model 3\\2019\\jpg\\2014-tesla-model-s-sedan-rear-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\jpg\\2014-tesla-model-s-sedan-side-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model 3\\2019\\jpg\\2014-tesla-model-s-sedan-side-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model 3/2019/jpg/2014-tesla-model-s-sedan-side-view.jpg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model 3\\2019\\jpg\\2014-tesla-model-s-sedan-side-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\2014-tesla-model-s-sedan-front-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\2014-tesla-model-s-sedan-front-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model y/2021/2014-tesla-model-s-sedan-front-view.png",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model y\\2021\\2014-tesla-model-s-sedan-front-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\2014-tesla-model-s-sedan-low-aggressive.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\2014-tesla-model-s-sedan-low-aggressive.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model y/2021/2014-tesla-model-s-sedan-low-aggressive.png",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model y\\2021\\2014-tesla-model-s-sedan-low-aggressive.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\2014-tesla-model-s-sedan-rear-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\2014-tesla-model-s-sedan-rear-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model y/2021/2014-tesla-model-s-sedan-rear-view.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model y\\2021\\2014-tesla-model-s-sedan-rear-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\2014-tesla-model-s-sedan-side-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\2014-tesla-model-s-sedan-side-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model y/2021/2014-tesla-model-s-sedan-side-view.png",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model y\\2021\\2014-tesla-model-s-sedan-side-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\jpg\\2014-tesla-model-s-sedan-front-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\jpg\\2014-tesla-model-s-sedan-front-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model y/2021/jpg/2014-tesla-model-s-sedan-front-view.jpg",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model y\\2021\\jpg\\2014-tesla-model-s-sedan-front-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\jpg\\2014-tesla-model-s-sedan-low-aggressive.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\jpg\\2014-tesla-model-s-sedan-low-aggressive.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model y/2021/jpg/2014-tesla-model-s-sedan-low-aggressive.jpg",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model y\\2021\\jpg\\2014-tesla-model-s-sedan-low-aggressive.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\jpg\\2014-tesla-model-s-sedan-rear-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\jpg\\2014-tesla-model-s-sedan-rear-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model y/2021/jpg/2014-tesla-model-s-sedan-rear-view.jpg",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model y\\2021\\jpg\\2014-tesla-model-s-sedan-rear-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\jpg\\2014-tesla-model-s-sedan-side-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\tesla\\model y\\2021\\jpg\\2014-tesla-model-s-sedan-side-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/tesla/model y/2021/jpg/2014-tesla-model-s-sedan-side-view.jpg",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\tesla\\model y\\2021\\jpg\\2014-tesla-model-s-sedan-side-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\2018-toyota-rav4-le-suv-front-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\2018-toyota-rav4-le-suv-front-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/toyota/rav4/2018/2018-toyota-rav4-le-suv-front-view.png",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\toyota\\rav4\\2018\\2018-toyota-rav4-le-suv-front-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\2018-toyota-rav4-le-suv-low-aggressive.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\2018-toyota-rav4-le-suv-low-aggressive.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/toyota/rav4/2018/2018-toyota-rav4-le-suv-low-aggressive.png",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\toyota\\rav4\\2018\\2018-toyota-rav4-le-suv-low-aggressive.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\2018-toyota-rav4-le-suv-rear-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\2018-toyota-rav4-le-suv-rear-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/toyota/rav4/2018/2018-toyota-rav4-le-suv-rear-view.png",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\toyota\\rav4\\2018\\2018-toyota-rav4-le-suv-rear-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\2018-toyota-rav4-le-suv-side-view.png",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\2018-toyota-rav4-le-suv-side-view.png",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/toyota/rav4/2018/2018-toyota-rav4-le-suv-side-view.png",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\toyota\\rav4\\2018\\2018-toyota-rav4-le-suv-side-view.png"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\jpg\\2018-toyota-rav4-le-suv-front-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\jpg\\2018-toyota-rav4-le-suv-front-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/toyota/rav4/2018/jpg/2018-toyota-rav4-le-suv-front-view.jpg",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\toyota\\rav4\\2018\\jpg\\2018-toyota-rav4-le-suv-front-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\jpg\\2018-toyota-rav4-le-suv-low-aggressive.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\jpg\\2018-toyota-rav4-le-suv-low-aggressive.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/toyota/rav4/2018/jpg/2018-toyota-rav4-le-suv-low-aggressive.jpg",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\toyota\\rav4\\2018\\jpg\\2018-toyota-rav4-le-suv-low-aggressive.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\jpg\\2018-toyota-rav4-le-suv-rear-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\jpg\\2018-toyota-rav4-le-suv-rear-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/toyota/rav4/2018/jpg/2018-toyota-rav4-le-suv-rear-view.jpg",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\toyota\\rav4\\2018\\jpg\\2018-toyota-rav4-le-suv-rear-view.jpg"
     },
     {
-      "Identity": "F:\\Projects\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\jpg\\2018-toyota-rav4-le-suv-side-view.jpg",
+      "Identity": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\images\\cars\\toyota\\rav4\\2018\\jpg\\2018-toyota-rav4-le-suv-side-view.jpg",
       "SourceId": "car-image-api",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\car\\car-image-api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lahiru\\Documents\\PROJECTS\\car\\car-image-api\\wwwroot\\",
       "BasePath": "_content/car-image-api",
       "RelativePath": "images/cars/toyota/rav4/2018/jpg/2018-toyota-rav4-le-suv-side-view.jpg",
       "AssetKind": "All",
