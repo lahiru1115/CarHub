@@ -12,7 +12,7 @@ import org.springframework.data.jpa.domain.Specification;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.stream.Collectors;
+import java.util.ArrayList;
 
 @Service
 public class CarService {
@@ -26,9 +26,11 @@ public class CarService {
 
         Page<Car> carPage = carRepository.findAll(spec, pageable);
 
-        List<CarResponseDto> carsDtoList = carPage.getContent().stream()
-                .map(CarResponseDto::new)
-                .collect(Collectors.toList());
+        List<CarResponseDto> carsDtoList = new ArrayList<>(
+                carPage.getContent().stream()
+                        .map(CarResponseDto::new)
+                        .toList() // Java 16+ safe non-null collector
+        );
 
         return new PageImpl<>(carsDtoList, pageable, carPage.getTotalElements());
     }
