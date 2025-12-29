@@ -69,7 +69,7 @@ const SearchBar = () => {
           alt="Model"
           width={25}
           height={25}
-          className="absolute w-[20px] h-[20px] ml-4"
+          className="absolute w-5 h-5 ml-4"
         />
         <input
           type="text"

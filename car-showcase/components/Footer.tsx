@@ -14,7 +14,7 @@ const Footer = () => {
             height={18}
             className="object-contain"
           />
-          <p className="text-base text-gray-700 sm:max-w-full lg:max-w-[400px]">
+          <p className="text-base text-gray-700 sm:max-w-full lg:max-w-100">
             CarHub is the best place to find your dream car. We have a wide
             range of cars available for sale. You can find the best car for you
             at the best price.
