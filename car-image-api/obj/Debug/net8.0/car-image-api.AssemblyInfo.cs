@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("car-image-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6192a70ce21a751539fcd16deb3cdc02c31829b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73d975f9bba0b48b5078d32fc0a43dc152b6d26e")]
 [assembly: System.Reflection.AssemblyProductAttribute("car-image-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("car-image-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
