@@ -1,7 +1,6 @@
 package com.carapi.car_data_api.dto;
 
 import com.carapi.car_data_api.model.Car;
-
 public class CarResponseDto {
     private String make;
     private String model;
